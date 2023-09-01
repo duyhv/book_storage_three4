@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chien-dau-trong-vong-vay_20746.html",
+    "title" : "Chiến Đấu Trong Vòng Vây",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Võ Nguyên Giáp",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 37065,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_02aff2bdfae7858e226930820fb4125a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_02aff2bdfae7858e226930820fb4125a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_efcb3eb0b5cc23d6b890e8b00e210cd2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "01.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_4db5755b3c9e30b550abda549a31eced_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_4db5755b3c9e30b550abda549a31eced_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_4db5755b3c9e30b550abda549a31eced_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_e9e6a84751f7b176ae9c97e61cabd36c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_e9e6a84751f7b176ae9c97e61cabd36c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_7a2c3fe0177f4a63a763431100693856_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_7a2c3fe0177f4a63a763431100693856_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_5584a3b086e703babba93f6b673bf1d0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_5584a3b086e703babba93f6b673bf1d0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_d511009c605c428dd0d48e0d38a2f7b7_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_d511009c605c428dd0d48e0d38a2f7b7_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_cd541f6c0d6da0aec6f6c98041bacab7_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_cd541f6c0d6da0aec6f6c98041bacab7_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_4da9b31c0b29ca4f1ca3c7e11e8df2ee_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_4da9b31c0b29ca4f1ca3c7e11e8df2ee_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_d92256dd2db6201d2a1ee6772346d675_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_d92256dd2db6201d2a1ee6772346d675_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_36b592a655acfd036caf3d9139c8ff12_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_36b592a655acfd036caf3d9139c8ff12_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_ca903fba25f10c7e33a1e17d3e490522_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_ca903fba25f10c7e33a1e17d3e490522_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_6cfc6f86212ffcd565eb7a3882f822e6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1472,
+    "title" : "12.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_efcb3eb0b5cc23d6b890e8b00e210cd2.mp3",
+    "title" : "01.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_4db5755b3c9e30b550abda549a31eced_1.mp3",
+    "title" : "02.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_4db5755b3c9e30b550abda549a31eced_2.mp3",
+    "title" : "02.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_4db5755b3c9e30b550abda549a31eced_3.mp3",
+    "title" : "02.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_e9e6a84751f7b176ae9c97e61cabd36c_1.mp3",
+    "title" : "03.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_e9e6a84751f7b176ae9c97e61cabd36c_2.mp3",
+    "title" : "03.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_7a2c3fe0177f4a63a763431100693856_1.mp3",
+    "title" : "04.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_7a2c3fe0177f4a63a763431100693856_2.mp3",
+    "title" : "04.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_5584a3b086e703babba93f6b673bf1d0_1.mp3",
+    "title" : "05.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_5584a3b086e703babba93f6b673bf1d0_2.mp3",
+    "title" : "05.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_d511009c605c428dd0d48e0d38a2f7b7_1.mp3",
+    "title" : "06.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_d511009c605c428dd0d48e0d38a2f7b7_2.mp3",
+    "title" : "06.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_cd541f6c0d6da0aec6f6c98041bacab7_1.mp3",
+    "title" : "07.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_cd541f6c0d6da0aec6f6c98041bacab7_2.mp3",
+    "title" : "07.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_4da9b31c0b29ca4f1ca3c7e11e8df2ee_1.mp3",
+    "title" : "08.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_4da9b31c0b29ca4f1ca3c7e11e8df2ee_2.mp3",
+    "title" : "08.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_d92256dd2db6201d2a1ee6772346d675_1.mp3",
+    "title" : "09.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_d92256dd2db6201d2a1ee6772346d675_2.mp3",
+    "title" : "09.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_36b592a655acfd036caf3d9139c8ff12_1.mp3",
+    "title" : "10.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_36b592a655acfd036caf3d9139c8ff12_2.mp3",
+    "title" : "10.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_ca903fba25f10c7e33a1e17d3e490522_1.mp3",
+    "title" : "11.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_ca903fba25f10c7e33a1e17d3e490522_2.mp3",
+    "title" : "11.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_02aff2bdfae7858e226930820fb4125a_6cfc6f86212ffcd565eb7a3882f822e6.mp3",
+    "title" : "12.Chiến-đấu-trong-vong-vây tác-giả-Hữu-Mai-Tấn MC-Hải-Yến (KenhSachNoi.Com)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
