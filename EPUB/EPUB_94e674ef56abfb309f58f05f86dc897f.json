@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day_19986.html",
+    "title" : "Vua Hàm Nghi, Một Tâm Hồn Việt Ở Chốn Lưu Đày",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đắc Xuân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 16852,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_94e674ef56abfb309f58f05f86dc897f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_94e674ef56abfb309f58f05f86dc897f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "VUA HAM NGHI 01 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "VUA HAM NGHI 01 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "VUA HAM NGHI 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "VUA HAM NGHI 02 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_64c482f35c8376c1cee6b9eef7c27fba.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2914,
+    "title" : "VUA HAM NGHI 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "VUA HAM NGHI 04 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "VUA HAM NGHI 04 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_a484135cffda893eceeba63001246152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2530,
+    "title" : "VUA HAM NGHI 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_dfe0d568bcf8bb885bcb210870298550.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1941,
+    "title" : "VUA HAM NGHI 06",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_1.mp3",
+    "title" : "VUA HAM NGHI 01 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_2.mp3",
+    "title" : "VUA HAM NGHI 01 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_1.mp3",
+    "title" : "VUA HAM NGHI 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_2.mp3",
+    "title" : "VUA HAM NGHI 02 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_64c482f35c8376c1cee6b9eef7c27fba.mp3",
+    "title" : "VUA HAM NGHI 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_1.mp3",
+    "title" : "VUA HAM NGHI 04 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_2.mp3",
+    "title" : "VUA HAM NGHI 04 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_a484135cffda893eceeba63001246152.mp3",
+    "title" : "VUA HAM NGHI 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_dfe0d568bcf8bb885bcb210870298550.mp3",
+    "title" : "VUA HAM NGHI 06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
