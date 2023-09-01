@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/qua-cua-bo_20692.html",
+    "title" : "Quà của Bố",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đình Dũng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 11198,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_4137e0168fe03ec13082fcf803972e30.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_4137e0168fe03ec13082fcf803972e30.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_ca61ad90b96ed52fe04ece1b58b59585.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2496,
+    "title" : "QUA CUA BO 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_6e718b615692bf3df1e25a072eb6b61c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2495,
+    "title" : "QUA CUA BO 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_fb19de682ad4abad37571b1f4b56d324_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "QUA CUA BO 03 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_fb19de682ad4abad37571b1f4b56d324_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "QUA CUA BO 03 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_da0c11ae6ca006a4e55ad562d03303aa_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "QUA CUA BO 04 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_da0c11ae6ca006a4e55ad562d03303aa_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "QUA CUA BO 04 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_ca61ad90b96ed52fe04ece1b58b59585.mp3",
+    "title" : "QUA CUA BO 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_6e718b615692bf3df1e25a072eb6b61c.mp3",
+    "title" : "QUA CUA BO 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_fb19de682ad4abad37571b1f4b56d324_1.mp3",
+    "title" : "QUA CUA BO 03 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_fb19de682ad4abad37571b1f4b56d324_2.mp3",
+    "title" : "QUA CUA BO 03 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_da0c11ae6ca006a4e55ad562d03303aa_1.mp3",
+    "title" : "QUA CUA BO 04 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_4137e0168fe03ec13082fcf803972e30_da0c11ae6ca006a4e55ad562d03303aa_2.mp3",
+    "title" : "QUA CUA BO 04 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
