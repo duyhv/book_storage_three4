@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-phuc-khap-quanh-ta_20212.html",
+    "title" : "Hạnh Phúc Khắp Quanh Ta",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 16754,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_a29fb7455c13c59f0f6194d8f3a9a091.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_a29fb7455c13c59f0f6194d8f3a9a091.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_4115cb830c6ec3a6771bee69a5d796e1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hanh-phuc-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_4115cb830c6ec3a6771bee69a5d796e1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hanh-phuc-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_28a8e5835c8e5e9454e30448d392a84b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hanh-phuc-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_28a8e5835c8e5e9454e30448d392a84b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hanh-phuc-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_3159a3622f85c47a7ec2f2b73e21da3e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hanh-phuc-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_3159a3622f85c47a7ec2f2b73e21da3e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hanh-phuc-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_e2e5b52fc38b930c75631e46f8f61e1a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hanh-phuc-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_e2e5b52fc38b930c75631e46f8f61e1a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hanh-phuc-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_f59ad6bfde0d73664f6b8a6864a13036_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hanh-phuc-5 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_f59ad6bfde0d73664f6b8a6864a13036_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hanh-phuc-5 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_4115cb830c6ec3a6771bee69a5d796e1_1.mp3",
+    "title" : "hanh-phuc-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_4115cb830c6ec3a6771bee69a5d796e1_2.mp3",
+    "title" : "hanh-phuc-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_28a8e5835c8e5e9454e30448d392a84b_1.mp3",
+    "title" : "hanh-phuc-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_28a8e5835c8e5e9454e30448d392a84b_2.mp3",
+    "title" : "hanh-phuc-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_3159a3622f85c47a7ec2f2b73e21da3e_1.mp3",
+    "title" : "hanh-phuc-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_3159a3622f85c47a7ec2f2b73e21da3e_2.mp3",
+    "title" : "hanh-phuc-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_e2e5b52fc38b930c75631e46f8f61e1a_1.mp3",
+    "title" : "hanh-phuc-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_e2e5b52fc38b930c75631e46f8f61e1a_2.mp3",
+    "title" : "hanh-phuc-4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_f59ad6bfde0d73664f6b8a6864a13036_1.mp3",
+    "title" : "hanh-phuc-5 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_a29fb7455c13c59f0f6194d8f3a9a091_f59ad6bfde0d73664f6b8a6864a13036_2.mp3",
+    "title" : "hanh-phuc-5 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
