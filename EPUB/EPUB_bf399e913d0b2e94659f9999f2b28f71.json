@@ -1,0 +1,1241 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dai-duong-nu-phap-y_17827.html",
+    "title" : "Đại Đường Nữ Pháp Y",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tụ Đường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 394540,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_bf399e913d0b2e94659f9999f2b28f71.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_bf399e913d0b2e94659f9999f2b28f71.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3276,
+    "title" : "Dai duong nu phap y 001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3348,
+    "title" : "Dai duong nu phap y 002",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3553,
+    "title" : "Dai duong nu phap y 003",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3490,
+    "title" : "Dai duong nu phap y 004",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3362,
+    "title" : "Dai duong nu phap y 005",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3996,
+    "title" : "Dai duong nu phap y 006",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4198,
+    "title" : "Dai duong nu phap y 007",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6150,
+    "title" : "Dai duong nu phap y 008",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3747,
+    "title" : "Dai duong nu phap y 009",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4239,
+    "title" : "Dai duong nu phap y 010",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4235,
+    "title" : "Dai duong nu phap y 011",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3721,
+    "title" : "Dai duong nu phap y 012",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3993,
+    "title" : "Dai duong nu phap y 013",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3484,
+    "title" : "Dai duong nu phap y 014",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3677,
+    "title" : "Dai duong nu phap y 015",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "Dai duong nu phap y 016",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3691,
+    "title" : "Dai duong nu phap y 017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3492,
+    "title" : "Dai duong nu phap y 018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3592,
+    "title" : "Dai duong nu phap y 019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3916,
+    "title" : "Dai duong nu phap y 020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4025,
+    "title" : "Dai duong nu phap y 021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4025,
+    "title" : "Dai duong nu phap y 022",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3650,
+    "title" : "Dai duong nu phap y 023",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "Dai duong nu phap y 024",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "Dai duong nu phap y 025",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3512,
+    "title" : "Dai duong nu phap y 026",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3491,
+    "title" : "Dai duong nu phap y 027",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_028.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3533,
+    "title" : "Dai duong nu phap y 028",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3855,
+    "title" : "Dai duong nu phap y 029",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_030.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3943,
+    "title" : "Dai duong nu phap y 030",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_031.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3749,
+    "title" : "Dai duong nu phap y 031",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_032.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3545,
+    "title" : "Dai duong nu phap y 032",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_033.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3897,
+    "title" : "Dai duong nu phap y 033",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_034.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "Dai duong nu phap y 034",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_035.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3757,
+    "title" : "Dai duong nu phap y 035",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_036.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4131,
+    "title" : "Dai duong nu phap y 036",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_037.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "Dai duong nu phap y 037",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_038.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3539,
+    "title" : "Dai duong nu phap y 038",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_039.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "Dai duong nu phap y 039",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_040.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Dai duong nu phap y 040",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_041.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3805,
+    "title" : "Dai duong nu phap y 041",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_042.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3469,
+    "title" : "Dai duong nu phap y 042",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_043.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3730,
+    "title" : "Dai duong nu phap y 043",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_044.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3999,
+    "title" : "Dai duong nu phap y 044",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_045.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3536,
+    "title" : "Dai duong nu phap y 045",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_046.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4277,
+    "title" : "Dai duong nu phap y 046",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_047.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "Dai duong nu phap y 047",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_048.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3511,
+    "title" : "Dai duong nu phap y 048",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_049.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3316,
+    "title" : "Dai duong nu phap y 049",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_050.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3806,
+    "title" : "Dai duong nu phap y 050",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_051.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "Dai duong nu phap y 051",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_052.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4110,
+    "title" : "Dai duong nu phap y 052",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_053.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2905,
+    "title" : "Dai duong nu phap y 053",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_054.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3394,
+    "title" : "Dai duong nu phap y 054",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_055.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3415,
+    "title" : "Dai duong nu phap y 055",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_056.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4019,
+    "title" : "Dai duong nu phap y 056",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_057.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4298,
+    "title" : "Dai duong nu phap y 057",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_058.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3820,
+    "title" : "Dai duong nu phap y 058",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_059.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4315,
+    "title" : "Dai duong nu phap y 059",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_060.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4767,
+    "title" : "Dai duong nu phap y 060",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_061.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4486,
+    "title" : "Dai duong nu phap y 061",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_062.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4196,
+    "title" : "Dai duong nu phap y 062",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_063.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "Dai duong nu phap y 063",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_064.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3800,
+    "title" : "Dai duong nu phap y 064",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_065.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4212,
+    "title" : "Dai duong nu phap y 065",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_066.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4168,
+    "title" : "Dai duong nu phap y 066",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_067.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4007,
+    "title" : "Dai duong nu phap y 067",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_068.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4726,
+    "title" : "Dai duong nu phap y 068",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_069.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3545,
+    "title" : "Dai duong nu phap y 069",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_070.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4224,
+    "title" : "Dai duong nu phap y 070",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_071.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4169,
+    "title" : "Dai duong nu phap y 071",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_072.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4867,
+    "title" : "Dai duong nu phap y 072",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_073.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3854,
+    "title" : "Dai duong nu phap y 073",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_074.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "Dai duong nu phap y 074",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_075.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "Dai duong nu phap y 075",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_076.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3446,
+    "title" : "Dai duong nu phap y 076",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_077.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "Dai duong nu phap y 077",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_078.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4120,
+    "title" : "Dai duong nu phap y 078",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_079.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4084,
+    "title" : "Dai duong nu phap y 079",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_080.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3962,
+    "title" : "Dai duong nu phap y 080",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_081.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4116,
+    "title" : "Dai duong nu phap y 081",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_082.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4538,
+    "title" : "Dai duong nu phap y 082",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_083.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3916,
+    "title" : "Dai duong nu phap y 083",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_084.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4653,
+    "title" : "Dai duong nu phap y 084",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_085.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5248,
+    "title" : "Dai duong nu phap y 085",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_086.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4835,
+    "title" : "Dai duong nu phap y 086",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_087.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4308,
+    "title" : "Dai duong nu phap y 087",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_088.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4042,
+    "title" : "Dai duong nu phap y 088",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_089.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4343,
+    "title" : "Dai duong nu phap y 089",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_090.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4921,
+    "title" : "Dai duong nu phap y 090",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_091.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4385,
+    "title" : "Dai duong nu phap y 091",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_092.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4204,
+    "title" : "Dai duong nu phap y 092",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_093.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3829,
+    "title" : "Dai duong nu phap y 093",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_094.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4598,
+    "title" : "Dai duong nu phap y 094",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_095.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4143,
+    "title" : "Dai duong nu phap y 095",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_096.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "Dai duong nu phap y 096",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_097.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "Dai duong nu phap y 097",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_098.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5154,
+    "title" : "Dai duong nu phap y 098",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_099.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4048,
+    "title" : "Dai duong nu phap y 099",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5420,
+    "title" : "Dai duong nu phap y 100",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_001.mp3",
+    "title" : "Dai duong nu phap y 001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_002.mp3",
+    "title" : "Dai duong nu phap y 002",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_003.mp3",
+    "title" : "Dai duong nu phap y 003",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_004.mp3",
+    "title" : "Dai duong nu phap y 004",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_005.mp3",
+    "title" : "Dai duong nu phap y 005",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_006.mp3",
+    "title" : "Dai duong nu phap y 006",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_007.mp3",
+    "title" : "Dai duong nu phap y 007",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_008.mp3",
+    "title" : "Dai duong nu phap y 008",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_009.mp3",
+    "title" : "Dai duong nu phap y 009",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_010.mp3",
+    "title" : "Dai duong nu phap y 010",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_011.mp3",
+    "title" : "Dai duong nu phap y 011",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_012.mp3",
+    "title" : "Dai duong nu phap y 012",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_013.mp3",
+    "title" : "Dai duong nu phap y 013",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_014.mp3",
+    "title" : "Dai duong nu phap y 014",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_015.mp3",
+    "title" : "Dai duong nu phap y 015",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_016.mp3",
+    "title" : "Dai duong nu phap y 016",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_017.mp3",
+    "title" : "Dai duong nu phap y 017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_018.mp3",
+    "title" : "Dai duong nu phap y 018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_019.mp3",
+    "title" : "Dai duong nu phap y 019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_020.mp3",
+    "title" : "Dai duong nu phap y 020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_021.mp3",
+    "title" : "Dai duong nu phap y 021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_022.mp3",
+    "title" : "Dai duong nu phap y 022",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_023.mp3",
+    "title" : "Dai duong nu phap y 023",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_024.mp3",
+    "title" : "Dai duong nu phap y 024",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_025.mp3",
+    "title" : "Dai duong nu phap y 025",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_026.mp3",
+    "title" : "Dai duong nu phap y 026",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_027.mp3",
+    "title" : "Dai duong nu phap y 027",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_028.mp3",
+    "title" : "Dai duong nu phap y 028",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_029.mp3",
+    "title" : "Dai duong nu phap y 029",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_030.mp3",
+    "title" : "Dai duong nu phap y 030",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_031.mp3",
+    "title" : "Dai duong nu phap y 031",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_032.mp3",
+    "title" : "Dai duong nu phap y 032",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_033.mp3",
+    "title" : "Dai duong nu phap y 033",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_034.mp3",
+    "title" : "Dai duong nu phap y 034",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_035.mp3",
+    "title" : "Dai duong nu phap y 035",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_036.mp3",
+    "title" : "Dai duong nu phap y 036",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_037.mp3",
+    "title" : "Dai duong nu phap y 037",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_038.mp3",
+    "title" : "Dai duong nu phap y 038",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_039.mp3",
+    "title" : "Dai duong nu phap y 039",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_040.mp3",
+    "title" : "Dai duong nu phap y 040",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_041.mp3",
+    "title" : "Dai duong nu phap y 041",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_042.mp3",
+    "title" : "Dai duong nu phap y 042",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_043.mp3",
+    "title" : "Dai duong nu phap y 043",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_044.mp3",
+    "title" : "Dai duong nu phap y 044",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_045.mp3",
+    "title" : "Dai duong nu phap y 045",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_046.mp3",
+    "title" : "Dai duong nu phap y 046",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_047.mp3",
+    "title" : "Dai duong nu phap y 047",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_048.mp3",
+    "title" : "Dai duong nu phap y 048",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_049.mp3",
+    "title" : "Dai duong nu phap y 049",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_050.mp3",
+    "title" : "Dai duong nu phap y 050",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_051.mp3",
+    "title" : "Dai duong nu phap y 051",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_052.mp3",
+    "title" : "Dai duong nu phap y 052",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_053.mp3",
+    "title" : "Dai duong nu phap y 053",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_054.mp3",
+    "title" : "Dai duong nu phap y 054",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_055.mp3",
+    "title" : "Dai duong nu phap y 055",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_056.mp3",
+    "title" : "Dai duong nu phap y 056",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_057.mp3",
+    "title" : "Dai duong nu phap y 057",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_058.mp3",
+    "title" : "Dai duong nu phap y 058",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_059.mp3",
+    "title" : "Dai duong nu phap y 059",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_060.mp3",
+    "title" : "Dai duong nu phap y 060",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_061.mp3",
+    "title" : "Dai duong nu phap y 061",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_062.mp3",
+    "title" : "Dai duong nu phap y 062",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_063.mp3",
+    "title" : "Dai duong nu phap y 063",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_064.mp3",
+    "title" : "Dai duong nu phap y 064",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_065.mp3",
+    "title" : "Dai duong nu phap y 065",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_066.mp3",
+    "title" : "Dai duong nu phap y 066",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_067.mp3",
+    "title" : "Dai duong nu phap y 067",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_068.mp3",
+    "title" : "Dai duong nu phap y 068",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_069.mp3",
+    "title" : "Dai duong nu phap y 069",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_070.mp3",
+    "title" : "Dai duong nu phap y 070",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_071.mp3",
+    "title" : "Dai duong nu phap y 071",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_072.mp3",
+    "title" : "Dai duong nu phap y 072",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_073.mp3",
+    "title" : "Dai duong nu phap y 073",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_074.mp3",
+    "title" : "Dai duong nu phap y 074",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_075.mp3",
+    "title" : "Dai duong nu phap y 075",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_076.mp3",
+    "title" : "Dai duong nu phap y 076",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_077.mp3",
+    "title" : "Dai duong nu phap y 077",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_078.mp3",
+    "title" : "Dai duong nu phap y 078",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_079.mp3",
+    "title" : "Dai duong nu phap y 079",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_080.mp3",
+    "title" : "Dai duong nu phap y 080",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_081.mp3",
+    "title" : "Dai duong nu phap y 081",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_082.mp3",
+    "title" : "Dai duong nu phap y 082",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_083.mp3",
+    "title" : "Dai duong nu phap y 083",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_084.mp3",
+    "title" : "Dai duong nu phap y 084",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_085.mp3",
+    "title" : "Dai duong nu phap y 085",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_086.mp3",
+    "title" : "Dai duong nu phap y 086",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_087.mp3",
+    "title" : "Dai duong nu phap y 087",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_088.mp3",
+    "title" : "Dai duong nu phap y 088",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_089.mp3",
+    "title" : "Dai duong nu phap y 089",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_090.mp3",
+    "title" : "Dai duong nu phap y 090",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_091.mp3",
+    "title" : "Dai duong nu phap y 091",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_092.mp3",
+    "title" : "Dai duong nu phap y 092",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_093.mp3",
+    "title" : "Dai duong nu phap y 093",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_094.mp3",
+    "title" : "Dai duong nu phap y 094",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_095.mp3",
+    "title" : "Dai duong nu phap y 095",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_096.mp3",
+    "title" : "Dai duong nu phap y 096",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_097.mp3",
+    "title" : "Dai duong nu phap y 097",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_098.mp3",
+    "title" : "Dai duong nu phap y 098",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_099.mp3",
+    "title" : "Dai duong nu phap y 099",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-duong-nu-phap-y-003/Dai%20duong%20nu%20phap%20y_100.mp3",
+    "title" : "Dai duong nu phap y 100",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
