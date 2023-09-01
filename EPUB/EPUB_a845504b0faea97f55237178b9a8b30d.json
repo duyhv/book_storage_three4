@@ -1,0 +1,449 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huyet-ma-kiem_17822.html",
+    "title" : "Huyết Ma Kiếm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thượng Quan Đỉnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 155960,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_a845504b0faea97f55237178b9a8b30d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_a845504b0faea97f55237178b9a8b30d.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2001%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4158,
+    "title" : "Huyết Ma Kiếm # 01 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2002%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4936,
+    "title" : "Huyết Ma Kiếm # 02 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2003%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4877,
+    "title" : "Huyết Ma Kiếm # 03 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2004%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5057,
+    "title" : "Huyết Ma Kiếm # 04 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2005%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4938,
+    "title" : "Huyết Ma Kiếm # 05 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2006%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4756,
+    "title" : "Huyết Ma Kiếm # 06 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2007%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4936,
+    "title" : "Huyết Ma Kiếm # 07 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2008%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4757,
+    "title" : "Huyết Ma Kiếm # 08 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2009%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4635,
+    "title" : "Huyết Ma Kiếm # 09 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2010%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4695,
+    "title" : "Huyết Ma Kiếm # 10 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2011%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4576,
+    "title" : "Huyết Ma Kiếm # 11 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2013%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4576,
+    "title" : "Huyết Ma Kiếm # 13 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2014%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4576,
+    "title" : "Huyết Ma Kiếm # 14 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2015%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4516,
+    "title" : "Huyết Ma Kiếm # 15 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2016%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4516,
+    "title" : "Huyết Ma Kiếm # 16 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2017%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4455,
+    "title" : "Huyết Ma Kiếm # 17 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2018%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4875,
+    "title" : "Huyết Ma Kiếm # 18 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2019%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4575,
+    "title" : "Huyết Ma Kiếm # 19 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2020%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4635,
+    "title" : "Huyết Ma Kiếm # 20 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2021%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4396,
+    "title" : "Huyết Ma Kiếm # 21 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2022%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4516,
+    "title" : "Huyết Ma Kiếm # 22 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2023%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4937,
+    "title" : "Huyết Ma Kiếm # 23 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2024%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "Huyết Ma Kiếm # 24 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2025%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4697,
+    "title" : "Huyết Ma Kiếm # 25 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2026%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4636,
+    "title" : "Huyết Ma Kiếm # 26 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2027%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4516,
+    "title" : "Huyết Ma Kiếm # 27 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2028%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4577,
+    "title" : "Huyết Ma Kiếm # 28 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2029%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4457,
+    "title" : "Huyết Ma Kiếm # 29 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2030%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4456,
+    "title" : "Huyết Ma Kiếm # 30 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2031%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4638,
+    "title" : "Huyết Ma Kiếm # 31 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2032%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4637,
+    "title" : "Huyết Ma Kiếm # 32 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2033%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4277,
+    "title" : "Huyết Ma Kiếm # 33 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2034%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4698,
+    "title" : "Huyết Ma Kiếm # 34 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2035%20-%20H%C3%8A%CC%81T%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3860,
+    "title" : "Huyết Ma Kiếm # 35 - HẾT - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2001%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 01 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2002%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 02 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2003%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 03 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2004%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 04 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2005%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 05 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2006%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 06 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2007%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 07 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2008%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 08 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2009%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 09 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2010%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 10 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2011%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 11 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2013%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 13 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2014%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 14 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2015%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 15 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2016%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 16 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2017%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 17 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2018%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 18 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2019%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 19 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2020%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 20 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2021%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 21 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2022%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 22 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2023%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 23 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2024%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 24 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2025%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 25 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2026%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 26 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2027%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 27 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2028%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 28 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2029%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 29 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2030%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 30 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2031%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 31 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2032%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 32 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2033%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 33 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2034%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 34 - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-ma-kiem-04-audio-truyen-kiem-hiep-chuong-vu/Huy%C3%AA%CC%81t%20Ma%20Ki%C3%AA%CC%81m%20%23%2035%20-%20H%C3%8A%CC%81T%20-%20Audio%20-%20Truy%C3%AA%CC%A3n%20Ki%C3%AA%CC%81m%20Hi%C3%AA%CC%A3p%20-%20Ch%C6%B0%C6%A1ng%20Vu%CC%83.mp3",
+    "title" : "Huyết Ma Kiếm # 35 - HẾT - Audio - Truyện Kiếm Hiệp - Chương Vũ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
