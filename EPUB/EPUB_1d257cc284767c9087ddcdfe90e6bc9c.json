@@ -1,0 +1,425 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huyet-kiem-ma-hoa_17826.html",
+    "title" : "Huyết Kiếm Ma Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thanh Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 113129,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_1d257cc284767c9087ddcdfe90e6bc9c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_1d257cc284767c9087ddcdfe90e6bc9c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2001%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4146,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 01 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2002%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4158,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 02 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2003%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4239,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 03 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2004%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 04 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2005%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4077,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 05 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2006%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3834,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 06 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2007%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 07 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2008%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3255,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 08 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2009%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2852,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 09 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2010%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 10 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2011%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3143,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 11 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2012%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3971,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 12 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2013%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3379,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 13 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2014%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3839,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 14 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2015%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3494,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 15 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2016%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4351,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 16 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2017%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3068,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 17 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2018%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3101,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 18 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2019%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 19 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2020%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 20 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2021%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 21 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2022%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2701,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 22 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2023%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2837,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 23 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2024%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4008,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 24 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2025%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3210,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 25 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2026%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3460,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 26 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2027%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3057,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 27 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2028%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3512,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 28 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2029%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4427,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 29 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2030%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4351,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 30 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2031%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3465,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 31 - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2032%20-%20K%E1%BA%BFt%20truy%E1%BB%87n%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3424,
+    "title" : "Huyết Kiếm Ma Hoa - Phần 32 - Kết truyện - Truyện Kiếm Hiệp mới",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2001%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 01 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2002%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 02 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2003%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 03 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2004%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 04 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2005%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 05 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2006%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 06 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2007%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 07 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2008%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 08 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2009%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 09 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2010%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 10 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2011%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 11 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2012%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 12 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2013%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 13 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2014%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 14 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2015%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 15 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2016%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 16 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2017%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 17 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2018%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 18 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2019%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 19 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2020%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 20 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2021%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 21 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2022%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 22 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2023%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 23 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2024%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 24 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2025%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 25 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2026%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 26 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2027%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 27 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2028%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 28 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2029%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 29 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2030%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 30 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2031%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 31 - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-kiem-ma-hoa-phan-29-truyen-kiem-hiep-moi/Huy%E1%BA%BFt%20Ki%E1%BA%BFm%20Ma%20Hoa%20-%20Ph%E1%BA%A7n%2032%20-%20K%E1%BA%BFt%20truy%E1%BB%87n%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20m%E1%BB%9Bi.mp3",
+    "title" : "Huyết Kiếm Ma Hoa - Phần 32 - Kết truyện - Truyện Kiếm Hiệp mới",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
