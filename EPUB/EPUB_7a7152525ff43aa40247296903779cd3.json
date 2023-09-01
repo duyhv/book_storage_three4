@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-tinh-nhu-o-trong-mo_20676.html",
+    "title" : "Chuyện Tình Như Ở Trong Mơ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chu Sa Lan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 19392,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_7a7152525ff43aa40247296903779cd3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_7a7152525ff43aa40247296903779cd3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_363504b1cf2cb56b47abbceebd13cc09_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 1 │ Tác giả: Chu Sa Lang │ Thu Yên (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_363504b1cf2cb56b47abbceebd13cc09_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 1 │ Tác giả: Chu Sa Lang │ Thu Yên (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_363504b1cf2cb56b47abbceebd13cc09_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 1 │ Tác giả: Chu Sa Lang │ Thu Yên (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_8b7d5c5e091bbafe83d34912d5247927_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 │ Tác giả: Chu Sa Lang │ Thu Yên (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_8b7d5c5e091bbafe83d34912d5247927_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 │ Tác giả: Chu Sa Lang │ Thu Yên (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_8b7d5c5e091bbafe83d34912d5247927_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 │ Tác giả: Chu Sa Lang │ Thu Yên (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_172275620eef3ae9eb8a3f0932929578_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_172275620eef3ae9eb8a3f0932929578_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_172275620eef3ae9eb8a3f0932929578_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_172275620eef3ae9eb8a3f0932929578_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (4)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_363504b1cf2cb56b47abbceebd13cc09_1.mp3",
+    "title" : "Tập 1 │ Tác giả: Chu Sa Lang │ Thu Yên (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_363504b1cf2cb56b47abbceebd13cc09_2.mp3",
+    "title" : "Tập 1 │ Tác giả: Chu Sa Lang │ Thu Yên (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_363504b1cf2cb56b47abbceebd13cc09_3.mp3",
+    "title" : "Tập 1 │ Tác giả: Chu Sa Lang │ Thu Yên (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_8b7d5c5e091bbafe83d34912d5247927_1.mp3",
+    "title" : "Tập 2 │ Tác giả: Chu Sa Lang │ Thu Yên (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_8b7d5c5e091bbafe83d34912d5247927_2.mp3",
+    "title" : "Tập 2 │ Tác giả: Chu Sa Lang │ Thu Yên (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_8b7d5c5e091bbafe83d34912d5247927_3.mp3",
+    "title" : "Tập 2 │ Tác giả: Chu Sa Lang │ Thu Yên (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_172275620eef3ae9eb8a3f0932929578_1.mp3",
+    "title" : "Tập 3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_172275620eef3ae9eb8a3f0932929578_2.mp3",
+    "title" : "Tập 3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_172275620eef3ae9eb8a3f0932929578_3.mp3",
+    "title" : "Tập 3 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_7a7152525ff43aa40247296903779cd3_172275620eef3ae9eb8a3f0932929578_4.mp3",
+    "title" : "Tập 3 (4)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
