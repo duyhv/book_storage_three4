@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thuy-linh_19796.html",
+    "title" : "Thủy Linh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỳnh Dao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-23",
+    "duration" : 5080,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_b6d30c2ee07b0d8f96ae2b0e0f0b9254.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_b6d30c2ee07b0d8f96ae2b0e0f0b9254.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b6d30c2ee07b0d8f96ae2b0e0f0b9254_845d1e2cd27075ed77b2acaf801d527d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1480,
+    "title" : "thuy-linh-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b6d30c2ee07b0d8f96ae2b0e0f0b9254_a8dd01104070c015e96f27d0f238e7d4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "thuy-linh-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b6d30c2ee07b0d8f96ae2b0e0f0b9254_1a27be6638a2ebc6063f2b10096495e9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "thuy-linh-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b6d30c2ee07b0d8f96ae2b0e0f0b9254_845d1e2cd27075ed77b2acaf801d527d.mp3",
+    "title" : "thuy-linh-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b6d30c2ee07b0d8f96ae2b0e0f0b9254_a8dd01104070c015e96f27d0f238e7d4.mp3",
+    "title" : "thuy-linh-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_b6d30c2ee07b0d8f96ae2b0e0f0b9254_1a27be6638a2ebc6063f2b10096495e9.mp3",
+    "title" : "thuy-linh-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
