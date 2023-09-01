@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-ðoi-tai-sac_19380.html",
+    "title" : "Một Ðời Tài Sắc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-21",
+    "duration" : 9964,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_9f962a0ef6ed670230ee841bbe62a627.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_9f962a0ef6ed670230ee841bbe62a627.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_d268bdef24511b8e40c707562a0e40f4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5925,
+    "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_d268bdef24511b8e40c707562a0e40f4.mp3",
+    "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_1.mp3",
+    "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_2.mp3",
+    "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
