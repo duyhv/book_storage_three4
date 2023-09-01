@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/du-vi-tra-chieu_20855.html",
+    "title" : "Dư Vị Trà Chiều",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Hiểu Khê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-08",
+    "duration" : 15104,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_324b9eae63efbe95a4b67635521927cd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_324b9eae63efbe95a4b67635521927cd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_1d220d84b5ab93440d0538624b0aaac6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 844,
+    "title" : "Dư vị trà chiều (01)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_9d99840662e55a2edcd78bc485deb60a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 797,
+    "title" : "Dư vị trà chiều (02)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_c58f802e4ef923574aabfaf307e42cb4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 928,
+    "title" : "Dư vị trà chiều (03)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_93a333d9f60b0635e13008d76d217f6a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 749,
+    "title" : "Dư vị trà chiều (04)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_d0ab0a166e1b6d1363509b1790a5f99d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 552,
+    "title" : "Dư vị trà chiều (05)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_958e0d02f5b25963233229fbff798adb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 945,
+    "title" : "Dư vị trà chiều (06)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_ee5bc1127d50a9e3cc9d5c6601bc2589.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 976,
+    "title" : "Dư vị trà chiều (07)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_afbcc5b04367de6e880e805fa167b184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2039,
+    "title" : "Dư vị trà chiều (08)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_70340dba115e0bb2716ff81faa097921.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2684,
+    "title" : "Dư vị trà chiều (09)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_c0becc87e6b552c5aadd46ec4dab6ed0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2581,
+    "title" : "Dư vị trà chiều (10)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_20e189770c5bb4d3d2e843f78cda8241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 653,
+    "title" : "Dư vị trà chiều (11)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_f200cca79f04a45e79821d8392b09d62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 696,
+    "title" : "Dư vị trà chiều (12)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_0a538d19b7f777fddddc68c5769af629.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 660,
+    "title" : "Dư vị trà chiều (13)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_1d220d84b5ab93440d0538624b0aaac6.mp3",
+    "title" : "Dư vị trà chiều (01)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_9d99840662e55a2edcd78bc485deb60a.mp3",
+    "title" : "Dư vị trà chiều (02)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_c58f802e4ef923574aabfaf307e42cb4.mp3",
+    "title" : "Dư vị trà chiều (03)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_93a333d9f60b0635e13008d76d217f6a.mp3",
+    "title" : "Dư vị trà chiều (04)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_d0ab0a166e1b6d1363509b1790a5f99d.mp3",
+    "title" : "Dư vị trà chiều (05)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_958e0d02f5b25963233229fbff798adb.mp3",
+    "title" : "Dư vị trà chiều (06)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_ee5bc1127d50a9e3cc9d5c6601bc2589.mp3",
+    "title" : "Dư vị trà chiều (07)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_afbcc5b04367de6e880e805fa167b184.mp3",
+    "title" : "Dư vị trà chiều (08)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_70340dba115e0bb2716ff81faa097921.mp3",
+    "title" : "Dư vị trà chiều (09)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_c0becc87e6b552c5aadd46ec4dab6ed0.mp3",
+    "title" : "Dư vị trà chiều (10)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_20e189770c5bb4d3d2e843f78cda8241.mp3",
+    "title" : "Dư vị trà chiều (11)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_f200cca79f04a45e79821d8392b09d62.mp3",
+    "title" : "Dư vị trà chiều (12)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_324b9eae63efbe95a4b67635521927cd_0a538d19b7f777fddddc68c5769af629.mp3",
+    "title" : "Dư vị trà chiều (13)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
