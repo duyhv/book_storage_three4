@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_cd77a2b4d14d1156e79e33b445f2b94c.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_cd77a2b4d14d1156e79e33b445f2b94c.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_cd77a2b4d14d1156e79e33b445f2b94c.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_cd77a2b4d14d1156e79e33b445f2b94c.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_1.mp3",
     "title" : "song-10-dieu-lanh (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_2.mp3",
     "title" : "song-10-dieu-lanh (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_3.mp3",
     "title" : "song-10-dieu-lanh (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_4.mp3",
     "title" : "song-10-dieu-lanh (4)",
     "children" : [ ]
   } ],

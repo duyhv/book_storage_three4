@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_9f962a0ef6ed670230ee841bbe62a627.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_9f962a0ef6ed670230ee841bbe62a627.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_9f962a0ef6ed670230ee841bbe62a627.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_9f962a0ef6ed670230ee841bbe62a627.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_d268bdef24511b8e40c707562a0e40f4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_d268bdef24511b8e40c707562a0e40f4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5925,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_d268bdef24511b8e40c707562a0e40f4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_d268bdef24511b8e40c707562a0e40f4.mp3",
     "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_1.mp3",
     "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_9f962a0ef6ed670230ee841bbe62a627_9d5f25c934f2ed28072b632e14e51bd8_2.mp3",
     "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC (2)",
     "children" : [ ]
   } ],

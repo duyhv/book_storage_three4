@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_506553281fcf715a4bf1481b212a534e.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_506553281fcf715a4bf1481b212a534e.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_506553281fcf715a4bf1481b212a534e.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_506553281fcf715a4bf1481b212a534e.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_1.mp3",
     "title" : "y2meta.com - Niệm Phật Tông Yếu - Pháp Nhiên Thượng Nhân (128 kbps) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_2.mp3",
     "title" : "y2meta.com - Niệm Phật Tông Yếu - Pháp Nhiên Thượng Nhân (128 kbps) (2)",
     "children" : [ ]
   } ],

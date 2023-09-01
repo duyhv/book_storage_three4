@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_590e360b275ffebf376d34a938665423.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_590e360b275ffebf376d34a938665423.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_590e360b275ffebf376d34a938665423.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_590e360b275ffebf376d34a938665423.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_1.mp3",
     "title" : "Trọn bộ (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_2.mp3",
     "title" : "Trọn bộ (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_3.mp3",
     "title" : "Trọn bộ (3)",
     "children" : [ ]
   } ],

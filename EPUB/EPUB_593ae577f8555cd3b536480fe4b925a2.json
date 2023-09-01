@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_593ae577f8555cd3b536480fe4b925a2.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_593ae577f8555cd3b536480fe4b925a2.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_593ae577f8555cd3b536480fe4b925a2.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_593ae577f8555cd3b536480fe4b925a2.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_593ae577f8555cd3b536480fe4b925a2_ae0cf99dc90149c875b3744345bd8c43_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_593ae577f8555cd3b536480fe4b925a2_ae0cf99dc90149c875b3744345bd8c43_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_593ae577f8555cd3b536480fe4b925a2_ae0cf99dc90149c875b3744345bd8c43_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_593ae577f8555cd3b536480fe4b925a2_ae0cf99dc90149c875b3744345bd8c43_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_593ae577f8555cd3b536480fe4b925a2_ae0cf99dc90149c875b3744345bd8c43_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_593ae577f8555cd3b536480fe4b925a2_ae0cf99dc90149c875b3744345bd8c43_1.mp3",
     "title" : "CHUYỆN TÌNH ROMEO VÀ JULIET | WILLIAM SHAKESPEARE | KỊCH TRUYỀN THANH | TRẠM DỪNG 1080 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_593ae577f8555cd3b536480fe4b925a2_ae0cf99dc90149c875b3744345bd8c43_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_593ae577f8555cd3b536480fe4b925a2_ae0cf99dc90149c875b3744345bd8c43_2.mp3",
     "title" : "CHUYỆN TÌNH ROMEO VÀ JULIET | WILLIAM SHAKESPEARE | KỊCH TRUYỀN THANH | TRẠM DỪNG 1080 (2)",
     "children" : [ ]
   } ],

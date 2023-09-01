@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_2d625d376ee87ee334550afea9a0b493.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_2d625d376ee87ee334550afea9a0b493.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_2d625d376ee87ee334550afea9a0b493.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_2d625d376ee87ee334550afea9a0b493.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_2d625d376ee87ee334550afea9a0b493_036f4a111664552a055be47eea3c4fb7_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2d625d376ee87ee334550afea9a0b493_036f4a111664552a055be47eea3c4fb7_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_2d625d376ee87ee334550afea9a0b493_036f4a111664552a055be47eea3c4fb7_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2d625d376ee87ee334550afea9a0b493_036f4a111664552a055be47eea3c4fb7_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_2d625d376ee87ee334550afea9a0b493_036f4a111664552a055be47eea3c4fb7_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2d625d376ee87ee334550afea9a0b493_036f4a111664552a055be47eea3c4fb7_1.mp3",
     "title" : "co-gai (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_2d625d376ee87ee334550afea9a0b493_036f4a111664552a055be47eea3c4fb7_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2d625d376ee87ee334550afea9a0b493_036f4a111664552a055be47eea3c4fb7_2.mp3",
     "title" : "co-gai (2)",
     "children" : [ ]
   } ],

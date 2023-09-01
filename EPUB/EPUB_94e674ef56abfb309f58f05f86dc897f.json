@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_94e674ef56abfb309f58f05f86dc897f.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_94e674ef56abfb309f58f05f86dc897f.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_94e674ef56abfb309f58f05f86dc897f.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_94e674ef56abfb309f58f05f86dc897f.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_64c482f35c8376c1cee6b9eef7c27fba.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_64c482f35c8376c1cee6b9eef7c27fba.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2914,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_a484135cffda893eceeba63001246152.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_a484135cffda893eceeba63001246152.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2530,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_dfe0d568bcf8bb885bcb210870298550.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_dfe0d568bcf8bb885bcb210870298550.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1941,
@@ -109,39 +109,39 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_1.mp3",
     "title" : "VUA HAM NGHI 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_6aefaf79c3f2a7547a2ad886a7e49ad9_2.mp3",
     "title" : "VUA HAM NGHI 01 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_1.mp3",
     "title" : "VUA HAM NGHI 02 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c33365c07e38b0f74926f16a3c64974b_2.mp3",
     "title" : "VUA HAM NGHI 02 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_64c482f35c8376c1cee6b9eef7c27fba.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_64c482f35c8376c1cee6b9eef7c27fba.mp3",
     "title" : "VUA HAM NGHI 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_1.mp3",
     "title" : "VUA HAM NGHI 04 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_c6bcb2d42c407543fde77b84625dcc1b_2.mp3",
     "title" : "VUA HAM NGHI 04 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_a484135cffda893eceeba63001246152.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_a484135cffda893eceeba63001246152.mp3",
     "title" : "VUA HAM NGHI 05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_dfe0d568bcf8bb885bcb210870298550.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_94e674ef56abfb309f58f05f86dc897f_dfe0d568bcf8bb885bcb210870298550.mp3",
     "title" : "VUA HAM NGHI 06",
     "children" : [ ]
   } ],

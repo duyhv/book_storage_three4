@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_c60f8b31fd06a3c41f72e2dc0d20b562.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_c60f8b31fd06a3c41f72e2dc0d20b562.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_c60f8b31fd06a3c41f72e2dc0d20b562.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_c60f8b31fd06a3c41f72e2dc0d20b562.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_1.mp3",
     "title" : "01 Tuoi Tre Tinh Yeu Ly Tuong (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_2.mp3",
     "title" : "01 Tuoi Tre Tinh Yeu Ly Tuong (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_1.mp3",
     "title" : "02 Tuoi Tre Tinh Yeu Ly Tuong (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_2.mp3",
     "title" : "02 Tuoi Tre Tinh Yeu Ly Tuong (2)",
     "children" : [ ]
   } ],

@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_80b93d1cbbad910edd98c0904e188aab.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_80b93d1cbbad910edd98c0904e188aab.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_80b93d1cbbad910edd98c0904e188aab.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_80b93d1cbbad910edd98c0904e188aab.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_503cd8a86b9c87e666705ddb69384b84.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_503cd8a86b9c87e666705ddb69384b84.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3970,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_c86a903c6eb371a1a4b14f549bdfa82c_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_c86a903c6eb371a1a4b14f549bdfa82c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_c86a903c6eb371a1a4b14f549bdfa82c_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_c86a903c6eb371a1a4b14f549bdfa82c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_a306307bff0059f87dfcf32418fef69a.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_a306307bff0059f87dfcf32418fef69a.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3948,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_7fb1ff64bef76a2153c875caddde24bd.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_7fb1ff64bef76a2153c875caddde24bd.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3234,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_dc327505edcbc151c987cbf421386a7c_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_dc327505edcbc151c987cbf421386a7c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_dc327505edcbc151c987cbf421386a7c_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_dc327505edcbc151c987cbf421386a7c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_6451def7e5814125bf2983afe995e1bf_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_6451def7e5814125bf2983afe995e1bf_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_6451def7e5814125bf2983afe995e1bf_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_6451def7e5814125bf2983afe995e1bf_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_cdef5375370992c4a15bce78d57ca326_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_cdef5375370992c4a15bce78d57ca326_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_cdef5375370992c4a15bce78d57ca326_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_cdef5375370992c4a15bce78d57ca326_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_503cd8a86b9c87e666705ddb69384b84.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_503cd8a86b9c87e666705ddb69384b84.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_c86a903c6eb371a1a4b14f549bdfa82c_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_c86a903c6eb371a1a4b14f549bdfa82c_1.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_c86a903c6eb371a1a4b14f549bdfa82c_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_c86a903c6eb371a1a4b14f549bdfa82c_2.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_a306307bff0059f87dfcf32418fef69a.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_a306307bff0059f87dfcf32418fef69a.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_7fb1ff64bef76a2153c875caddde24bd.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_7fb1ff64bef76a2153c875caddde24bd.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_dc327505edcbc151c987cbf421386a7c_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_dc327505edcbc151c987cbf421386a7c_1.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_dc327505edcbc151c987cbf421386a7c_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_dc327505edcbc151c987cbf421386a7c_2.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_6451def7e5814125bf2983afe995e1bf_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_6451def7e5814125bf2983afe995e1bf_1.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_6451def7e5814125bf2983afe995e1bf_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_6451def7e5814125bf2983afe995e1bf_2.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_cdef5375370992c4a15bce78d57ca326_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_cdef5375370992c4a15bce78d57ca326_1.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_cdef5375370992c4a15bce78d57ca326_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_80b93d1cbbad910edd98c0904e188aab_cdef5375370992c4a15bce78d57ca326_2.mp3",
     "title" : "Tiểu Thuyết của Hoàng Thu Dung | Trò Chuyện Đêm Khuya (2)",
     "children" : [ ]
   } ],

@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_56c5516b63f5d881a32d86c2a329af53.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_56c5516b63f5d881a32d86c2a329af53.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_56c5516b63f5d881a32d86c2a329af53.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_56c5516b63f5d881a32d86c2a329af53.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_756336947b53ec52b7a7aa9ba3f61da7.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_756336947b53ec52b7a7aa9ba3f61da7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1883,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_c805af3a13ce0eaee33c6870d3f03060.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_c805af3a13ce0eaee33c6870d3f03060.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2812,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_73b5808e5864c628e5c3b5c1d9279da3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_73b5808e5864c628e5c3b5c1d9279da3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2454,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_756336947b53ec52b7a7aa9ba3f61da7.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_756336947b53ec52b7a7aa9ba3f61da7.mp3",
     "title" : "CO MAY NGAY XUA 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_c805af3a13ce0eaee33c6870d3f03060.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_c805af3a13ce0eaee33c6870d3f03060.mp3",
     "title" : "CO MAY NGAY XUA 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_73b5808e5864c628e5c3b5c1d9279da3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_73b5808e5864c628e5c3b5c1d9279da3.mp3",
     "title" : "CO MAY NGAY XUA 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_1.mp3",
     "title" : "CO MAY NGAY XUA 04 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_2.mp3",
     "title" : "CO MAY NGAY XUA 04 (2)",
     "children" : [ ]
   } ],

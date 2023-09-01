@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_e2b858d6e8c096234a16b8ecd05b08d0.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_e2b858d6e8c096234a16b8ecd05b08d0.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_e2b858d6e8c096234a16b8ecd05b08d0.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_e2b858d6e8c096234a16b8ecd05b08d0.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_e2b858d6e8c096234a16b8ecd05b08d0_fcf12e89f00519b178f3d4945ddbe654_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_e2b858d6e8c096234a16b8ecd05b08d0_fcf12e89f00519b178f3d4945ddbe654_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_e2b858d6e8c096234a16b8ecd05b08d0_fcf12e89f00519b178f3d4945ddbe654_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_e2b858d6e8c096234a16b8ecd05b08d0_fcf12e89f00519b178f3d4945ddbe654_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_e2b858d6e8c096234a16b8ecd05b08d0_fcf12e89f00519b178f3d4945ddbe654_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_e2b858d6e8c096234a16b8ecd05b08d0_fcf12e89f00519b178f3d4945ddbe654_1.mp3",
     "title" : "TienCuaQuocGia (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_e2b858d6e8c096234a16b8ecd05b08d0_fcf12e89f00519b178f3d4945ddbe654_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_e2b858d6e8c096234a16b8ecd05b08d0_fcf12e89f00519b178f3d4945ddbe654_2.mp3",
     "title" : "TienCuaQuocGia (2)",
     "children" : [ ]
   } ],
