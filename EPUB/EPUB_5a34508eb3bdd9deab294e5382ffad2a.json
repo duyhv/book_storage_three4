@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mieng-doc-thanh-doi_13528.html",
+    "title" : "Miệng Độc Thành Đôi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dung Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 57114,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_5a34508eb3bdd9deab294e5382ffad2a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_5a34508eb3bdd9deab294e5382ffad2a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_8bca8b3cd562b470acba774929aa4791.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_31fca19d354bbfbe06e81cbf86763761.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3744,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_83765d8cc67850e5713ee19b02a26052.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3457,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_8390dcd377ead17b81e129087cc2307b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4491,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_e06b659889598fb09541266fd46321df.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4384,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_beed8a21d7eab3680be0b5bebe8f40bc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5466,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_1e4ae745d538a5df8f51030101f2800f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4297,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_f8f1a8bfc30584f19c7c0c44051d5eca.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4008,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_1221004b978ac1e7f5aa70625ded9c12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4073,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_dee08652d2513a139661eaf6ac65a9d7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3897,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_ab39c5d04b3eb81f9d6af61c4baccd09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_b022dd14abfcba6e55513c614467e5cb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3828,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_d3c08a7a554a2a746f7626b6f6dd7a0f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3864,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_577d9552bd6d6acfe18a27d2fa38efa0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4035,
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_8bca8b3cd562b470acba774929aa4791.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_31fca19d354bbfbe06e81cbf86763761.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_83765d8cc67850e5713ee19b02a26052.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_8390dcd377ead17b81e129087cc2307b.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_e06b659889598fb09541266fd46321df.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_beed8a21d7eab3680be0b5bebe8f40bc.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_1e4ae745d538a5df8f51030101f2800f.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_f8f1a8bfc30584f19c7c0c44051d5eca.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_1221004b978ac1e7f5aa70625ded9c12.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_dee08652d2513a139661eaf6ac65a9d7.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_ab39c5d04b3eb81f9d6af61c4baccd09.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_b022dd14abfcba6e55513c614467e5cb.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_d3c08a7a554a2a746f7626b6f6dd7a0f.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5a34508eb3bdd9deab294e5382ffad2a_577d9552bd6d6acfe18a27d2fa38efa0.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hiện Đại Cực Hay 2018",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

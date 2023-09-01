@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tang-thi-sinh-quy-nga-quy_11221.html",
+    "title" : "Táng Thi Sinh Quỷ - Ngạ Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngạ Quỷ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 6546,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_5bb999c7ebc98835e85b0a23a5798c52.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_5bb999c7ebc98835e85b0a23a5798c52.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_68a3260a7b41dc30822982125bf94e1f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_68a3260a7b41dc30822982125bf94e1f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_6e37351a60197a947d854a921d833e64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3048,
+    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_68a3260a7b41dc30822982125bf94e1f_1.mp3",
+    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_68a3260a7b41dc30822982125bf94e1f_2.mp3",
+    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_6e37351a60197a947d854a921d833e64.mp3",
+    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
