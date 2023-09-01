@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuoi-tre-tinh-yeu-ly-tuong_19278.html",
+    "title" : "Tuổi Trẻ - Tình Yêu - Lý Tưởng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-19",
+    "duration" : 8156,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_c60f8b31fd06a3c41f72e2dc0d20b562.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_c60f8b31fd06a3c41f72e2dc0d20b562.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01 Tuoi Tre Tinh Yeu Ly Tuong (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01 Tuoi Tre Tinh Yeu Ly Tuong (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02 Tuoi Tre Tinh Yeu Ly Tuong (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02 Tuoi Tre Tinh Yeu Ly Tuong (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_1.mp3",
+    "title" : "01 Tuoi Tre Tinh Yeu Ly Tuong (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_b8ba278f33e51b8fab72b1b361c5e4ef_2.mp3",
+    "title" : "01 Tuoi Tre Tinh Yeu Ly Tuong (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_1.mp3",
+    "title" : "02 Tuoi Tre Tinh Yeu Ly Tuong (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_c60f8b31fd06a3c41f72e2dc0d20b562_ec6f29c480c8fe9425ca1edbdebfdaa9_2.mp3",
+    "title" : "02 Tuoi Tre Tinh Yeu Ly Tuong (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
