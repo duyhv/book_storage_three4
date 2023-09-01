@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-muoi-dieu-lanh_19859.html",
+    "title" : "Sống Mười Điều Lành",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thông Lạc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-16",
+    "duration" : 8304,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_cd77a2b4d14d1156e79e33b445f2b94c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_cd77a2b4d14d1156e79e33b445f2b94c.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "song-10-dieu-lanh (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "song-10-dieu-lanh (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "song-10-dieu-lanh (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "song-10-dieu-lanh (4)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_1.mp3",
+    "title" : "song-10-dieu-lanh (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_2.mp3",
+    "title" : "song-10-dieu-lanh (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_3.mp3",
+    "title" : "song-10-dieu-lanh (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_cd77a2b4d14d1156e79e33b445f2b94c_19155416b9626caec9522ee6d99c56a6_4.mp3",
+    "title" : "song-10-dieu-lanh (4)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
