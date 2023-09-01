@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.lachoncoc.com/2019/12/vip-truyen-audio-trinh-tham-phap-y-tan.html#gsc.tab=0",
+    "title" : "Pháp Y Tần Minh Quyển 07 - Vách Núi Tử Thần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tần Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>T&ecirc;n s&aacute;ch: V&aacute;ch N&uacute;i Tử Thần</p><p>Số trang 616, khổ 14,5x20,5cm</p><p>&nbsp;Gi&aacute; b&igrave;a: 175.000 đ</p><div>&nbsp;- Tiểu thuyết trinh th&aacute;m b&aacute;n chạy nhất &ndash; Lượng ti&ecirc;u thụ 3 triệu bản tại Trung Quốc.<br>&nbsp;- Ch&uacute;ng sinh đều đeo mặt nạ, chỉ trong một &yacute; niệm, người liền biến th&agrave;nh th&uacute;!<br>&nbsp;- C&ocirc; ta bị đ&agrave;n ch&oacute; dữ cắn x&eacute; trong s&acirc;n Trung t&acirc;m nhận nu&ocirc;i th&uacute; hoang bỏ hoang;<br>&nbsp;Anh ta tự chui đầu v&agrave;o chuồng cọp l&uacute;c trời mờ s&aacute;ng một c&aacute;ch kh&oacute; hiểu, bị m&atilde;nh hổ cắn x&eacute; th&ecirc; thảm;<br>&nbsp;Anh ta bị nhấn ch&igrave;m giữa bầy chuột trong cống ngầm, to&agrave;n th&acirc;n n&aacute;t bấy&hellip;<br>&nbsp;Bọn họ gần như kh&ocirc;ng c&oacute; mối quan hệ n&agrave;o khi c&ograve;n sống, nhưng đều bị ch&ocirc;n th&acirc;y trong bụng d&atilde; th&uacute;.<br>&nbsp;Ngẫu nhi&ecirc;n ư? Trời phạt ư? Hay c&oacute; kẻ cố t&igrave;nh g&acirc;y ra tội &aacute;c?<br>&nbsp;Hay do&hellip; chỉ trong một &yacute; niệm, người liền biến th&agrave;nh th&uacute;?<br>&nbsp;- Đặt m&igrave;nh v&agrave;o g&oacute;c nh&igrave;n của b&aacute;c sĩ ph&aacute;p y tại hiện trường vụ &aacute;n<br>&nbsp;B&aacute;m theo từng dấu vết tinh vi của hiện trường &aacute;n mạng<br>&nbsp;H&atilde;y để con dao mổ b&oacute;c t&aacute;ch từng lớp ngụy trang của nh&acirc;n t&iacute;nh<br>&nbsp;Mổ xẻ con qu&aacute;i vật lẩn khuất trong tim mỗi người.</div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-17",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_590e360b275ffebf376d34a938665423.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_590e360b275ffebf376d34a938665423.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_1.mp3",
+    "title" : "Trọn bộ (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_2.mp3",
+    "title" : "Trọn bộ (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_590e360b275ffebf376d34a938665423_fd87093520cf74d9066e51cdb90b1f32_3.mp3",
+    "title" : "Trọn bộ (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

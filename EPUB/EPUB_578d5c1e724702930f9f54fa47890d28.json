@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mac-ket_20930.html",
+    "title" : "Mắc Kẹt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert Dugoni",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-06",
+    "duration" : 43749,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_578d5c1e724702930f9f54fa47890d28.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_578d5c1e724702930f9f54fa47890d28.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_508d8d14403c1c7c3dae40a664440d47_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 1 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_508d8d14403c1c7c3dae40a664440d47_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 1 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_508d8d14403c1c7c3dae40a664440d47_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 1 (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_9d7d5a701f149e0f4251c0b1dcf820cb_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 10 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_9d7d5a701f149e0f4251c0b1dcf820cb_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 10 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_f4b4e66adea39170d538032d28672327_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 2 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_f4b4e66adea39170d538032d28672327_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 2 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_ba331606cf64be24e65f4f9934f899fa_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 3 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_ba331606cf64be24e65f4f9934f899fa_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 3 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_ba331606cf64be24e65f4f9934f899fa_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 3 (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_09852e7022e57ba860ef0f421d3079ed_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 4 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_09852e7022e57ba860ef0f421d3079ed_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 4 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_165246e4cf30ee26133ee221b54f8498_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 5 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_165246e4cf30ee26133ee221b54f8498_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 5 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_165246e4cf30ee26133ee221b54f8498_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 5 (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_4ecf74a9c6b851c8b5b39d852dc31d34_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 6 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_4ecf74a9c6b851c8b5b39d852dc31d34_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 6 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_5c10b960b2778de908575c62922a22d8_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 7 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_5c10b960b2778de908575c62922a22d8_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 7 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_9e133a75625bb1115f23126aa05047df_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 8 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_9e133a75625bb1115f23126aa05047df_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 8 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_9e133a75625bb1115f23126aa05047df_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 8 (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_74b73a7fdb652acbf6f87062aff12c1e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 9 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_74b73a7fdb652acbf6f87062aff12c1e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mắc kẹt   robert dugoni 9 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_508d8d14403c1c7c3dae40a664440d47_1.mp3",
+    "title" : "mắc kẹt   robert dugoni 1 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_508d8d14403c1c7c3dae40a664440d47_2.mp3",
+    "title" : "mắc kẹt   robert dugoni 1 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_508d8d14403c1c7c3dae40a664440d47_3.mp3",
+    "title" : "mắc kẹt   robert dugoni 1 (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_9d7d5a701f149e0f4251c0b1dcf820cb_1.mp3",
+    "title" : "mắc kẹt   robert dugoni 10 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_9d7d5a701f149e0f4251c0b1dcf820cb_2.mp3",
+    "title" : "mắc kẹt   robert dugoni 10 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_f4b4e66adea39170d538032d28672327_1.mp3",
+    "title" : "mắc kẹt   robert dugoni 2 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_f4b4e66adea39170d538032d28672327_2.mp3",
+    "title" : "mắc kẹt   robert dugoni 2 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_ba331606cf64be24e65f4f9934f899fa_1.mp3",
+    "title" : "mắc kẹt   robert dugoni 3 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_ba331606cf64be24e65f4f9934f899fa_2.mp3",
+    "title" : "mắc kẹt   robert dugoni 3 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_ba331606cf64be24e65f4f9934f899fa_3.mp3",
+    "title" : "mắc kẹt   robert dugoni 3 (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_09852e7022e57ba860ef0f421d3079ed_1.mp3",
+    "title" : "mắc kẹt   robert dugoni 4 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_09852e7022e57ba860ef0f421d3079ed_2.mp3",
+    "title" : "mắc kẹt   robert dugoni 4 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_165246e4cf30ee26133ee221b54f8498_1.mp3",
+    "title" : "mắc kẹt   robert dugoni 5 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_165246e4cf30ee26133ee221b54f8498_2.mp3",
+    "title" : "mắc kẹt   robert dugoni 5 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_165246e4cf30ee26133ee221b54f8498_3.mp3",
+    "title" : "mắc kẹt   robert dugoni 5 (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_4ecf74a9c6b851c8b5b39d852dc31d34_1.mp3",
+    "title" : "mắc kẹt   robert dugoni 6 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_4ecf74a9c6b851c8b5b39d852dc31d34_2.mp3",
+    "title" : "mắc kẹt   robert dugoni 6 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_5c10b960b2778de908575c62922a22d8_1.mp3",
+    "title" : "mắc kẹt   robert dugoni 7 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_5c10b960b2778de908575c62922a22d8_2.mp3",
+    "title" : "mắc kẹt   robert dugoni 7 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_9e133a75625bb1115f23126aa05047df_1.mp3",
+    "title" : "mắc kẹt   robert dugoni 8 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_9e133a75625bb1115f23126aa05047df_2.mp3",
+    "title" : "mắc kẹt   robert dugoni 8 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_9e133a75625bb1115f23126aa05047df_3.mp3",
+    "title" : "mắc kẹt   robert dugoni 8 (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_74b73a7fdb652acbf6f87062aff12c1e_1.mp3",
+    "title" : "mắc kẹt   robert dugoni 9 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage4/main/AUDIO/AUDIO_578d5c1e724702930f9f54fa47890d28_74b73a7fdb652acbf6f87062aff12c1e_2.mp3",
+    "title" : "mắc kẹt   robert dugoni 9 (192kbit AAC) (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
