@@ -1,0 +1,509 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/than-y-sung-phi-cua-ta-vuong_12217.html",
+    "title" : "Thần Y Sủng Phi Của Tà Vương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tô Dĩ Vi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 194533,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_d72b563b9e5edcc7e1123c5a5292d990.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_d72b563b9e5edcc7e1123c5a5292d990.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_35e5a7e033fe9c66da0c893cbf9c38d0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #01_truyện audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_35e5a7e033fe9c66da0c893cbf9c38d0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #01_truyện audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_ce1a696931928e7252a469c14e90f042_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #10_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_ce1a696931928e7252a469c14e90f042_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #10_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_ce1a696931928e7252a469c14e90f042_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #10_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_c1d3f17bf32f82e89ca5671a334fcc2e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #11_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_c1d3f17bf32f82e89ca5671a334fcc2e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #11_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_c1d3f17bf32f82e89ca5671a334fcc2e_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #11_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_2f6d894ec7b777dbc6a0bf7e09012ac8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5104,
+    "title" : "Thần y sủng phi của tà vương #12_truyện Audio ngôn tình xuyên không hay nhất.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_2d72b4e3a558e37ba0fe3397649404a2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #13_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_2d72b4e3a558e37ba0fe3397649404a2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #13_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_2d72b4e3a558e37ba0fe3397649404a2_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #13_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_beb554d7eaf8ba299b731bc02b06acde_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #14_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_beb554d7eaf8ba299b731bc02b06acde_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #14_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_4709ac42adf767cb2ee5a655068a10d6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5064,
+    "title" : "Thần y sủng phi của tà vương #15_truyện Audio ngôn tình xuyên không hay nhất.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_c5d768d09289cc0d7c2380162e152b21_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #16_TRUYỆN Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_c5d768d09289cc0d7c2380162e152b21_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #16_TRUYỆN Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_4ce1afaee2e12c63ab749ea6eaaf31c1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #17_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_4ce1afaee2e12c63ab749ea6eaaf31c1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #17_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_4ce1afaee2e12c63ab749ea6eaaf31c1_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #17_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_30da3dfc65cc2ee89e18968f95aa2547_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #18Full_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_30da3dfc65cc2ee89e18968f95aa2547_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #18Full_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_30da3dfc65cc2ee89e18968f95aa2547_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #18Full_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_a43e93e9eb067828728d94e3bb645777_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #02_TRUYỆN audio ngôn tình xuyên không hay. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_a43e93e9eb067828728d94e3bb645777_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #02_TRUYỆN audio ngôn tình xuyên không hay. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_a43e93e9eb067828728d94e3bb645777_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #02_TRUYỆN audio ngôn tình xuyên không hay. (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_b793760e47a7662062117bc7048f2199_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #03_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_b793760e47a7662062117bc7048f2199_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #03_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_e17ced75fe072ccff063d19017ad0077_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #04_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_e17ced75fe072ccff063d19017ad0077_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #04_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_fff0f6ef4be462fd37ee6a46b4250715_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #05_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_fff0f6ef4be462fd37ee6a46b4250715_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #05_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_d99a60836ac7091c4ddec91b1b1e0270.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5609,
+    "title" : "Thần y sủng phi của tà vương #06_TRUYỆN Audio ngôn tình xuyên không hay nhất.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_bc4faf41ac1e70ee3b4c8614fc71576b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #07_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_bc4faf41ac1e70ee3b4c8614fc71576b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #07_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_bc4faf41ac1e70ee3b4c8614fc71576b_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #07_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_429d5f8630e48490aa14000f7b0137a3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5464,
+    "title" : "Thần y sủng phi của tà vương #08_TRUYỆN Audio ngôn tình xuyên không hay nhất.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_343fa647ba162185f4b264038f258a16_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #09_TRUYỆN Audio ngôn tình xuyên không hay nhất. (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_343fa647ba162185f4b264038f258a16_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Thần y sủng phi của tà vương #09_TRUYỆN Audio ngôn tình xuyên không hay nhất. (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_35e5a7e033fe9c66da0c893cbf9c38d0_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #01_truyện audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_35e5a7e033fe9c66da0c893cbf9c38d0_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #01_truyện audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_ce1a696931928e7252a469c14e90f042_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #10_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_ce1a696931928e7252a469c14e90f042_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #10_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_ce1a696931928e7252a469c14e90f042_3.mp3",
+    "title" : "Thần y sủng phi của tà vương #10_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_c1d3f17bf32f82e89ca5671a334fcc2e_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #11_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_c1d3f17bf32f82e89ca5671a334fcc2e_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #11_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_c1d3f17bf32f82e89ca5671a334fcc2e_3.mp3",
+    "title" : "Thần y sủng phi của tà vương #11_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_2f6d894ec7b777dbc6a0bf7e09012ac8.mp3",
+    "title" : "Thần y sủng phi của tà vương #12_truyện Audio ngôn tình xuyên không hay nhất.",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_2d72b4e3a558e37ba0fe3397649404a2_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #13_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_2d72b4e3a558e37ba0fe3397649404a2_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #13_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_2d72b4e3a558e37ba0fe3397649404a2_3.mp3",
+    "title" : "Thần y sủng phi của tà vương #13_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_beb554d7eaf8ba299b731bc02b06acde_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #14_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_beb554d7eaf8ba299b731bc02b06acde_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #14_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_4709ac42adf767cb2ee5a655068a10d6.mp3",
+    "title" : "Thần y sủng phi của tà vương #15_truyện Audio ngôn tình xuyên không hay nhất.",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_c5d768d09289cc0d7c2380162e152b21_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #16_TRUYỆN Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_c5d768d09289cc0d7c2380162e152b21_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #16_TRUYỆN Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_4ce1afaee2e12c63ab749ea6eaaf31c1_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #17_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_4ce1afaee2e12c63ab749ea6eaaf31c1_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #17_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_4ce1afaee2e12c63ab749ea6eaaf31c1_3.mp3",
+    "title" : "Thần y sủng phi của tà vương #17_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_30da3dfc65cc2ee89e18968f95aa2547_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #18Full_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_30da3dfc65cc2ee89e18968f95aa2547_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #18Full_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_30da3dfc65cc2ee89e18968f95aa2547_3.mp3",
+    "title" : "Thần y sủng phi của tà vương #18Full_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_a43e93e9eb067828728d94e3bb645777_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #02_TRUYỆN audio ngôn tình xuyên không hay. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_a43e93e9eb067828728d94e3bb645777_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #02_TRUYỆN audio ngôn tình xuyên không hay. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_a43e93e9eb067828728d94e3bb645777_3.mp3",
+    "title" : "Thần y sủng phi của tà vương #02_TRUYỆN audio ngôn tình xuyên không hay. (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_b793760e47a7662062117bc7048f2199_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #03_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_b793760e47a7662062117bc7048f2199_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #03_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_e17ced75fe072ccff063d19017ad0077_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #04_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_e17ced75fe072ccff063d19017ad0077_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #04_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_fff0f6ef4be462fd37ee6a46b4250715_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #05_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_fff0f6ef4be462fd37ee6a46b4250715_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #05_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_d99a60836ac7091c4ddec91b1b1e0270.mp3",
+    "title" : "Thần y sủng phi của tà vương #06_TRUYỆN Audio ngôn tình xuyên không hay nhất.",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_bc4faf41ac1e70ee3b4c8614fc71576b_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #07_truyện Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_bc4faf41ac1e70ee3b4c8614fc71576b_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #07_truyện Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_bc4faf41ac1e70ee3b4c8614fc71576b_3.mp3",
+    "title" : "Thần y sủng phi của tà vương #07_truyện Audio ngôn tình xuyên không hay nhất. (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_429d5f8630e48490aa14000f7b0137a3.mp3",
+    "title" : "Thần y sủng phi của tà vương #08_TRUYỆN Audio ngôn tình xuyên không hay nhất.",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_343fa647ba162185f4b264038f258a16_1.mp3",
+    "title" : "Thần y sủng phi của tà vương #09_TRUYỆN Audio ngôn tình xuyên không hay nhất. (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_d72b563b9e5edcc7e1123c5a5292d990_343fa647ba162185f4b264038f258a16_2.mp3",
+    "title" : "Thần y sủng phi của tà vương #09_TRUYỆN Audio ngôn tình xuyên không hay nhất. (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
