@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
-    "duration" : 2589,
+    "published" : "2023-09-06",
+    "duration" : 5178,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_30fc6363d9783ad364de3c56657defcf.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_30fc6363d9783ad364de3c56657defcf.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_30fc6363d9783ad364de3c56657defcf.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_30fc6363d9783ad364de3c56657defcf.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_30fc6363d9783ad364de3c56657defcf_880369f50bbef224d71f4c42829fac4a.mp3",
+    "href" : "https://archive.org/download/sach-noi-suong-khoi-que-nha-nguyen-nhat-anh-sach-noi-online-hay/S%C3%A1ch%20n%C3%B3i%20S%C6%B0%C6%A1ng%20Kh%C3%B3i%20Qu%C3%AA%20Nh%C3%A0%20-%20Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20-%20S%C3%A1ch%20N%C3%B3i%20Online%20Hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2589,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_30fc6363d9783ad364de3c56657defcf_880369f50bbef224d71f4c42829fac4a.mp3",
+    "href" : "https://archive.org/download/sach-noi-suong-khoi-que-nha-nguyen-nhat-anh-sach-noi-online-hay/S%C3%A1ch%20n%C3%B3i%20S%C6%B0%C6%A1ng%20Kh%C3%B3i%20Qu%C3%AA%20Nh%C3%A0%20-%20Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20-%20S%C3%A1ch%20N%C3%B3i%20Online%20Hay.mp3",
     "title" : "Sách nói Sương Khói Quê Nhà - Nguyễn Nhật Ánh - Sách Nói Online Hay",
     "children" : [ ]
   } ],

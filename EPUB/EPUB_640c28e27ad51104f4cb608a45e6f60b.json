@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 30335,
+    "published" : "2023-09-06",
+    "duration" : 50368,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_640c28e27ad51104f4cb608a45e6f60b.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_640c28e27ad51104f4cb608a45e6f60b.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_640c28e27ad51104f4cb608a45e6f60b.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_640c28e27ad51104f4cb608a45e6f60b.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_0fa058bf2b330bfbb5886492b58b882b.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2375,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_26b41c1d7d03acdd458e8044f8cb0192.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2004,
@@ -52,23 +52,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_273bed9136d94bea0ad967d31403ea50_1.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BEN KHONG CHONG 03 (1)",
+    "duration" : 3083,
+    "title" : "BEN KHONG CHONG 03",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_273bed9136d94bea0ad967d31403ea50_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BEN KHONG CHONG 03 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_a719dff6b9aade268fd47b5b0e099a80.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2604,
@@ -76,23 +68,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_eb461dd15f42d80052f675c1111640a7_1.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BEN KHONG CHONG 05 (1)",
+    "duration" : 3291,
+    "title" : "BEN KHONG CHONG 05",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_eb461dd15f42d80052f675c1111640a7_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BEN KHONG CHONG 05 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_16bb958eb564fe7bc6a1d13507108e85.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2974,
@@ -100,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_c2a4169917b5047c1f949f45bf2cbfb7.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2489,
@@ -108,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_c62dd1c74e0b2f3219d4f05f0efc87a3.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2245,
@@ -116,23 +100,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_3766573fb3aa7d72f4ae123b322956ff_1.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BEN KHONG CHONG 09 (1)",
+    "duration" : 3928,
+    "title" : "BEN KHONG CHONG 09",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_3766573fb3aa7d72f4ae123b322956ff_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BEN KHONG CHONG 09 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_6effcab0eb6bb966970327654f79d3d5.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2439,
@@ -140,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_99634a60a2f607a096f11a2c8ffb3821.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2903,
@@ -149,59 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_0fa058bf2b330bfbb5886492b58b882b.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_01.mp3",
     "title" : "BEN KHONG CHONG 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_26b41c1d7d03acdd458e8044f8cb0192.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_02.mp3",
     "title" : "BEN KHONG CHONG 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_273bed9136d94bea0ad967d31403ea50_1.mp3",
-    "title" : "BEN KHONG CHONG 03 (1)",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_03.mp3",
+    "title" : "BEN KHONG CHONG 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_273bed9136d94bea0ad967d31403ea50_2.mp3",
-    "title" : "BEN KHONG CHONG 03 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_a719dff6b9aade268fd47b5b0e099a80.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_04.mp3",
     "title" : "BEN KHONG CHONG 04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_eb461dd15f42d80052f675c1111640a7_1.mp3",
-    "title" : "BEN KHONG CHONG 05 (1)",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_05.mp3",
+    "title" : "BEN KHONG CHONG 05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_eb461dd15f42d80052f675c1111640a7_2.mp3",
-    "title" : "BEN KHONG CHONG 05 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_16bb958eb564fe7bc6a1d13507108e85.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_06.mp3",
     "title" : "BEN KHONG CHONG 06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_c2a4169917b5047c1f949f45bf2cbfb7.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_07.mp3",
     "title" : "BEN KHONG CHONG 07",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_c62dd1c74e0b2f3219d4f05f0efc87a3.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_08.mp3",
     "title" : "BEN KHONG CHONG 08",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_3766573fb3aa7d72f4ae123b322956ff_1.mp3",
-    "title" : "BEN KHONG CHONG 09 (1)",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_09.mp3",
+    "title" : "BEN KHONG CHONG 09",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_3766573fb3aa7d72f4ae123b322956ff_2.mp3",
-    "title" : "BEN KHONG CHONG 09 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_6effcab0eb6bb966970327654f79d3d5.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_10.mp3",
     "title" : "BEN KHONG CHONG 10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_640c28e27ad51104f4cb608a45e6f60b_99634a60a2f607a096f11a2c8ffb3821.mp3",
+    "href" : "https://archive.org/download/ben-khong-chong.sna/BEN_KHONG_CHONG_11.mp3",
     "title" : "BEN KHONG CHONG 11",
     "children" : [ ]
   } ],

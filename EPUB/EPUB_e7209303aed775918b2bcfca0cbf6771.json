@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 34898,
+    "published" : "2023-09-06",
+    "duration" : 35472,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,265 +26,137 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_e7209303aed775918b2bcfca0cbf6771.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_e7209303aed775918b2bcfca0cbf6771.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_e7209303aed775918b2bcfca0cbf6771.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_e7209303aed775918b2bcfca0cbf6771.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_49d6d86cc39477f1ec29c56b5c6bb00b_1.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/01Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(1) Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "duration" : 1863,
+    "title" : "(1) Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_49d6d86cc39477f1ec29c56b5c6bb00b_2.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/02Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(1) Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "duration" : 2082,
+    "title" : "(2) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_7b48f5b96cc01ae89d5e4e93b50b02af_1.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/03Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(2) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "duration" : 2041,
+    "title" : "(3) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_7b48f5b96cc01ae89d5e4e93b50b02af_2.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/04Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(2) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "duration" : 2022,
+    "title" : "(4) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_7ae35e9690d4940433ba9677ca7f8840_1.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/05Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(3) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "duration" : 2229,
+    "title" : "(5) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_7ae35e9690d4940433ba9677ca7f8840_2.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/06Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(3) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "duration" : 2275,
+    "title" : "(6) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_356225ad194c4bbca91206f3f2cc9485_1.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/07Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(4) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "duration" : 2237,
+    "title" : "(7) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_356225ad194c4bbca91206f3f2cc9485_2.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/08%2C09Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(4) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "duration" : 4112,
+    "title" : "(8&9) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_0bc30c9abfa5009b22cbd5c58981d46c_1.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/10Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(5) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "duration" : 2174,
+    "title" : "(10) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_0bc30c9abfa5009b22cbd5c58981d46c_2.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/11Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(5) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "duration" : 2289,
+    "title" : "(11) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_154751115499a4cfe005847e179cb65b_1.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/12Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(6) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "duration" : 2230,
+    "title" : "(12 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_154751115499a4cfe005847e179cb65b_2.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/13Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(6) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "duration" : 2311,
+    "title" : "(13 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_ffb623e4f82c969d705d055afbb809e3_1.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/14Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(7) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "duration" : 2151,
+    "title" : "(14) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_ffb623e4f82c969d705d055afbb809e3_2.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/15Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(7) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "duration" : 2157,
+    "title" : "(15) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_fa2a9a367afe4b6e2e388d1e8d71a5b9_1.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/16Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(8&9) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "duration" : 2151,
+    "title" : "(16 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_fa2a9a367afe4b6e2e388d1e8d71a5b9_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(8&9) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_fa2a9a367afe4b6e2e388d1e8d71a5b9_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(8&9) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_0afb7e08b3bf7fc5c0e1db656ac0e430_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(10) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_0afb7e08b3bf7fc5c0e1db656ac0e430_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(10) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_40c787ce129c20b78a44770adac8c1ce_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(11) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_40c787ce129c20b78a44770adac8c1ce_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(11) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_f3e8dcc2b8605a6667a96909cfdb21c1_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(12 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_f3e8dcc2b8605a6667a96909cfdb21c1_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(12 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_09cdb5914e13721c160b61c51449a3a5_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(13 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_09cdb5914e13721c160b61c51449a3a5_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(13 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_1bec62bf23e93a5b4da60530ccb4aa06_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(14) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_1bec62bf23e93a5b4da60530ccb4aa06_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(14) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_f9f21e328b986dc8ae78d1848c4d4c65_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(15) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_f9f21e328b986dc8ae78d1848c4d4c65_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(15) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_a6ede66a52c3cd8469468a660ad27012_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(16 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_a6ede66a52c3cd8469468a660ad27012_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(16 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_d85edb6352e7e3fadb8314e5997f7c2a.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/17%20%28end%29%20Hay%20ke%20GMCE.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 574,
@@ -293,131 +165,67 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_49d6d86cc39477f1ec29c56b5c6bb00b_1.mp3",
-    "title" : "(1) Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/01Hay%20ke%20GMCE.mp3",
+    "title" : "(1) Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_49d6d86cc39477f1ec29c56b5c6bb00b_2.mp3",
-    "title" : "(1) Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/02Hay%20ke%20GMCE.mp3",
+    "title" : "(2) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_7b48f5b96cc01ae89d5e4e93b50b02af_1.mp3",
-    "title" : "(2) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/03Hay%20ke%20GMCE.mp3",
+    "title" : "(3) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_7b48f5b96cc01ae89d5e4e93b50b02af_2.mp3",
-    "title" : "(2) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/04Hay%20ke%20GMCE.mp3",
+    "title" : "(4) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_7ae35e9690d4940433ba9677ca7f8840_1.mp3",
-    "title" : "(3) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/05Hay%20ke%20GMCE.mp3",
+    "title" : "(5) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_7ae35e9690d4940433ba9677ca7f8840_2.mp3",
-    "title" : "(3) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/06Hay%20ke%20GMCE.mp3",
+    "title" : "(6) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_356225ad194c4bbca91206f3f2cc9485_1.mp3",
-    "title" : "(4) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/07Hay%20ke%20GMCE.mp3",
+    "title" : "(7) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_356225ad194c4bbca91206f3f2cc9485_2.mp3",
-    "title" : "(4) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/08%2C09Hay%20ke%20GMCE.mp3",
+    "title" : "(8&9) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_0bc30c9abfa5009b22cbd5c58981d46c_1.mp3",
-    "title" : "(5) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/10Hay%20ke%20GMCE.mp3",
+    "title" : "(10) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_0bc30c9abfa5009b22cbd5c58981d46c_2.mp3",
-    "title" : "(5) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/11Hay%20ke%20GMCE.mp3",
+    "title" : "(11) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_154751115499a4cfe005847e179cb65b_1.mp3",
-    "title" : "(6) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/12Hay%20ke%20GMCE.mp3",
+    "title" : "(12 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_154751115499a4cfe005847e179cb65b_2.mp3",
-    "title" : "(6) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/13Hay%20ke%20GMCE.mp3",
+    "title" : "(13 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_ffb623e4f82c969d705d055afbb809e3_1.mp3",
-    "title" : "(7) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/14Hay%20ke%20GMCE.mp3",
+    "title" : "(14) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_ffb623e4f82c969d705d055afbb809e3_2.mp3",
-    "title" : "(7) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/15Hay%20ke%20GMCE.mp3",
+    "title" : "(15) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_fa2a9a367afe4b6e2e388d1e8d71a5b9_1.mp3",
-    "title" : "(8&9) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
+    "href" : "https://archive.org/download/0809HayKeGMCE/16Hay%20ke%20GMCE.mp3",
+    "title" : "(16 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_fa2a9a367afe4b6e2e388d1e8d71a5b9_2.mp3",
-    "title" : "(8&9) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_fa2a9a367afe4b6e2e388d1e8d71a5b9_3.mp3",
-    "title" : "(8&9) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_0afb7e08b3bf7fc5c0e1db656ac0e430_1.mp3",
-    "title" : "(10) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_0afb7e08b3bf7fc5c0e1db656ac0e430_2.mp3",
-    "title" : "(10) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_40c787ce129c20b78a44770adac8c1ce_1.mp3",
-    "title" : "(11) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_40c787ce129c20b78a44770adac8c1ce_2.mp3",
-    "title" : "(11) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_f3e8dcc2b8605a6667a96909cfdb21c1_1.mp3",
-    "title" : "(12 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_f3e8dcc2b8605a6667a96909cfdb21c1_2.mp3",
-    "title" : "(12 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_09cdb5914e13721c160b61c51449a3a5_1.mp3",
-    "title" : "(13 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_09cdb5914e13721c160b61c51449a3a5_2.mp3",
-    "title" : "(13 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_1bec62bf23e93a5b4da60530ccb4aa06_1.mp3",
-    "title" : "(14) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_1bec62bf23e93a5b4da60530ccb4aa06_2.mp3",
-    "title" : "(14) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_f9f21e328b986dc8ae78d1848c4d4c65_1.mp3",
-    "title" : "(15) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_f9f21e328b986dc8ae78d1848c4d4c65_2.mp3",
-    "title" : "(15) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_a6ede66a52c3cd8469468a660ad27012_1.mp3",
-    "title" : "(16 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_a6ede66a52c3cd8469468a660ad27012_2.mp3",
-    "title" : "(16 ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_e7209303aed775918b2bcfca0cbf6771_d85edb6352e7e3fadb8314e5997f7c2a.mp3",
+    "href" : "https://archive.org/download/0809HayKeGMCE/17%20%28end%29%20Hay%20ke%20GMCE.mp3",
     "title" : "( 17 END ) – Hãy kể giấc mơ của Em – Sidney Sheldon – Truyện Audio Lê Duyên – Duyên Lê",
     "children" : [ ]
   } ],

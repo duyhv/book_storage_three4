@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 8034,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,63 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_4673137da0fcbac31d9147d385b68e19.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_4673137da0fcbac31d9147d385b68e19.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_4673137da0fcbac31d9147d385b68e19.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_4673137da0fcbac31d9147d385b68e19.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4673137da0fcbac31d9147d385b68e19_3551f52fc0dab3ea8596f23a95c103ae_1.mp3",
+    "href" : "https://archive.org/download/phep-mau_202206/phep-mau.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phep-mau (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4673137da0fcbac31d9147d385b68e19_3551f52fc0dab3ea8596f23a95c103ae_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phep-mau (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4673137da0fcbac31d9147d385b68e19_3551f52fc0dab3ea8596f23a95c103ae_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phep-mau (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4673137da0fcbac31d9147d385b68e19_3551f52fc0dab3ea8596f23a95c103ae_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phep-mau (4)",
+    "duration" : 8034,
+    "title" : "phep-mau",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4673137da0fcbac31d9147d385b68e19_3551f52fc0dab3ea8596f23a95c103ae_1.mp3",
-    "title" : "phep-mau (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4673137da0fcbac31d9147d385b68e19_3551f52fc0dab3ea8596f23a95c103ae_2.mp3",
-    "title" : "phep-mau (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4673137da0fcbac31d9147d385b68e19_3551f52fc0dab3ea8596f23a95c103ae_3.mp3",
-    "title" : "phep-mau (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4673137da0fcbac31d9147d385b68e19_3551f52fc0dab3ea8596f23a95c103ae_4.mp3",
-    "title" : "phep-mau (4)",
+    "href" : "https://archive.org/download/phep-mau_202206/phep-mau.mp3",
+    "title" : "phep-mau",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

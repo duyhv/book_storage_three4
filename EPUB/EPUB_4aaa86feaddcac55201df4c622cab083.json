@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 7803,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,63 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_4aaa86feaddcac55201df4c622cab083.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_4aaa86feaddcac55201df4c622cab083.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_4aaa86feaddcac55201df4c622cab083.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_4aaa86feaddcac55201df4c622cab083.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4aaa86feaddcac55201df4c622cab083_1b6b030647d38f754e3828f97eb5a07b_1.mp3",
+    "href" : "https://archive.org/download/theo-buoc-chan-thay/theo-buoc-chan-thay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "theo-buoc-chan-thay (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4aaa86feaddcac55201df4c622cab083_1b6b030647d38f754e3828f97eb5a07b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "theo-buoc-chan-thay (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4aaa86feaddcac55201df4c622cab083_1b6b030647d38f754e3828f97eb5a07b_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "theo-buoc-chan-thay (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4aaa86feaddcac55201df4c622cab083_1b6b030647d38f754e3828f97eb5a07b_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "theo-buoc-chan-thay (4)",
+    "duration" : 7803,
+    "title" : "theo-buoc-chan-thay",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4aaa86feaddcac55201df4c622cab083_1b6b030647d38f754e3828f97eb5a07b_1.mp3",
-    "title" : "theo-buoc-chan-thay (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4aaa86feaddcac55201df4c622cab083_1b6b030647d38f754e3828f97eb5a07b_2.mp3",
-    "title" : "theo-buoc-chan-thay (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4aaa86feaddcac55201df4c622cab083_1b6b030647d38f754e3828f97eb5a07b_3.mp3",
-    "title" : "theo-buoc-chan-thay (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_4aaa86feaddcac55201df4c622cab083_1b6b030647d38f754e3828f97eb5a07b_4.mp3",
-    "title" : "theo-buoc-chan-thay (4)",
+    "href" : "https://archive.org/download/theo-buoc-chan-thay/theo-buoc-chan-thay.mp3",
+    "title" : "theo-buoc-chan-thay",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

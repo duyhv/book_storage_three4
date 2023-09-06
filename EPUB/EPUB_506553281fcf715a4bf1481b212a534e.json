@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-17",
+    "published" : "2023-09-06",
     "duration" : 4056,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,39 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_506553281fcf715a4bf1481b212a534e.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_506553281fcf715a4bf1481b212a534e.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_506553281fcf715a4bf1481b212a534e.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_506553281fcf715a4bf1481b212a534e.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_1.mp3",
+    "href" : "https://archive.org/download/y-2meta.com-niem-phat-tong-yeu-phap-nhien-thuong-nhan-128-kbps/y2meta.com%20-%20Ni%E1%BB%87m%20Ph%E1%BA%ADt%20T%C3%B4ng%20Y%E1%BA%BFu%20-%20Ph%C3%A1p%20Nhi%C3%AAn%20Th%C6%B0%E1%BB%A3ng%20Nh%C3%A2n%20%28128%20kbps%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "y2meta.com - Niệm Phật Tông Yếu - Pháp Nhiên Thượng Nhân (128 kbps) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "y2meta.com - Niệm Phật Tông Yếu - Pháp Nhiên Thượng Nhân (128 kbps) (2)",
+    "duration" : 4056,
+    "title" : "y2meta.com - Niệm Phật Tông Yếu - Pháp Nhiên Thượng Nhân (128 kbps)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_1.mp3",
-    "title" : "y2meta.com - Niệm Phật Tông Yếu - Pháp Nhiên Thượng Nhân (128 kbps) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_506553281fcf715a4bf1481b212a534e_86395ae3bcc98aca7153d9fd7aabca02_2.mp3",
-    "title" : "y2meta.com - Niệm Phật Tông Yếu - Pháp Nhiên Thượng Nhân (128 kbps) (2)",
+    "href" : "https://archive.org/download/y-2meta.com-niem-phat-tong-yeu-phap-nhien-thuong-nhan-128-kbps/y2meta.com%20-%20Ni%E1%BB%87m%20Ph%E1%BA%ADt%20T%C3%B4ng%20Y%E1%BA%BFu%20-%20Ph%C3%A1p%20Nhi%C3%AAn%20Th%C6%B0%E1%BB%A3ng%20Nh%C3%A2n%20%28128%20kbps%29.mp3",
+    "title" : "y2meta.com - Niệm Phật Tông Yếu - Pháp Nhiên Thượng Nhân (128 kbps)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

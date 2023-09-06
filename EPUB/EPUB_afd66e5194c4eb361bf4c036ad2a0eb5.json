@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-17",
+    "published" : "2023-09-06",
     "duration" : 9755,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,51 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_afd66e5194c4eb361bf4c036ad2a0eb5.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_afd66e5194c4eb361bf4c036ad2a0eb5.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_afd66e5194c4eb361bf4c036ad2a0eb5.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_afd66e5194c4eb361bf4c036ad2a0eb5.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_afd66e5194c4eb361bf4c036ad2a0eb5_c7dd6e70206ca1e9fb529da1185c7477_1.mp3",
+    "href" : "https://archive.org/download/nguoi-xa-la/nguoi-xa-la.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nguoi-xa-la (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_afd66e5194c4eb361bf4c036ad2a0eb5_c7dd6e70206ca1e9fb529da1185c7477_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nguoi-xa-la (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_afd66e5194c4eb361bf4c036ad2a0eb5_c7dd6e70206ca1e9fb529da1185c7477_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nguoi-xa-la (3)",
+    "duration" : 9755,
+    "title" : "nguoi-xa-la",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_afd66e5194c4eb361bf4c036ad2a0eb5_c7dd6e70206ca1e9fb529da1185c7477_1.mp3",
-    "title" : "nguoi-xa-la (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_afd66e5194c4eb361bf4c036ad2a0eb5_c7dd6e70206ca1e9fb529da1185c7477_2.mp3",
-    "title" : "nguoi-xa-la (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_afd66e5194c4eb361bf4c036ad2a0eb5_c7dd6e70206ca1e9fb529da1185c7477_3.mp3",
-    "title" : "nguoi-xa-la (3)",
+    "href" : "https://archive.org/download/nguoi-xa-la/nguoi-xa-la.mp3",
+    "title" : "nguoi-xa-la",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

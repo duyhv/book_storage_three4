@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 16870,
+    "published" : "2023-09-06",
+    "duration" : 33740,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_8cb11035ff90fcbe88dcf28f8cb2e950.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_8cb11035ff90fcbe88dcf28f8cb2e950.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_8cb11035ff90fcbe88dcf28f8cb2e950.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_8cb11035ff90fcbe88dcf28f8cb2e950.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_8cb11035ff90fcbe88dcf28f8cb2e950_1a0c0b647d4f3182d10140b6574cd1ca.mp3",
+    "href" : "https://archive.org/download/con-quy-tien-kiep/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3976,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_8cb11035ff90fcbe88dcf28f8cb2e950_f71719bf996726462849313d448d3dff.mp3",
+    "href" : "https://archive.org/download/con-quy-tien-kiep/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4483,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_8cb11035ff90fcbe88dcf28f8cb2e950_d0c2234fccd485d3fd6603e9efd56b08.mp3",
+    "href" : "https://archive.org/download/con-quy-tien-kiep/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3936,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_8cb11035ff90fcbe88dcf28f8cb2e950_e6139c110a1ba0e5dc605b729d673078.mp3",
+    "href" : "https://archive.org/download/con-quy-tien-kiep/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4475,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_8cb11035ff90fcbe88dcf28f8cb2e950_1a0c0b647d4f3182d10140b6574cd1ca.mp3",
+    "href" : "https://archive.org/download/con-quy-tien-kiep/1.mp3",
     "title" : "[Sợ Với] Con Quỷ Tiền Kiếp 😱 Truyện Ma Có Thật Đến Rợn Ngọc Lâm Kể",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_8cb11035ff90fcbe88dcf28f8cb2e950_f71719bf996726462849313d448d3dff.mp3",
+    "href" : "https://archive.org/download/con-quy-tien-kiep/2.mp3",
     "title" : "[Tập 2] Con Quỷ Tiền Kiếp 😱 Truyện Ma Có Thật Đến Sợ Ngọc Lâm Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_8cb11035ff90fcbe88dcf28f8cb2e950_d0c2234fccd485d3fd6603e9efd56b08.mp3",
+    "href" : "https://archive.org/download/con-quy-tien-kiep/3.mp3",
     "title" : "[Tập 3] Con Quỷ Tiền Kiếp 😱 Truyện Ma Có Thật Đến Sợ Ngọc Lâm Kể",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_8cb11035ff90fcbe88dcf28f8cb2e950_e6139c110a1ba0e5dc605b729d673078.mp3",
+    "href" : "https://archive.org/download/con-quy-tien-kiep/4.mp3",
     "title" : "[Tập 4 Kết] Con Quỷ Tiền Kiếp 😱 Truyện Ma Có Thật Đến Sợ Ngọc Lâm Kể",
     "children" : [ ]
   } ],

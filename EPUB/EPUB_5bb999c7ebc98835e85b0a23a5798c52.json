@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 6546,
+    "published" : "2023-09-06",
+    "duration" : 9594,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,33 +26,25 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/EPUB/EPUB_5bb999c7ebc98835e85b0a23a5798c52.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_5bb999c7ebc98835e85b0a23a5798c52.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/IMAGE/IMAGE_5bb999c7ebc98835e85b0a23a5798c52.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_5bb999c7ebc98835e85b0a23a5798c52.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_68a3260a7b41dc30822982125bf94e1f_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_ttsq/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ (1)",
+    "duration" : 3498,
+    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_68a3260a7b41dc30822982125bf94e1f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_6e37351a60197a947d854a921d833e64.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_ttsq/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3048,
@@ -61,15 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_68a3260a7b41dc30822982125bf94e1f_1.mp3",
-    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ (1)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_ttsq/1.mp3",
+    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_68a3260a7b41dc30822982125bf94e1f_2.mp3",
-    "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three4/main/AUDIO/AUDIO_5bb999c7ebc98835e85b0a23a5798c52_6e37351a60197a947d854a921d833e64.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_ttsq/2.mp3",
     "title" : "Truyện Ma Có Thật Ngạ Quỷ Viết SỢ",
     "children" : [ ]
   } ],

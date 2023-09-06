@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-07",
+    "published" : "2023-09-06",
     "duration" : 8024,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,63 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_6b4e05829ac93162e8aa6e1faf6ed1da.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_6b4e05829ac93162e8aa6e1faf6ed1da.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_6b4e05829ac93162e8aa6e1faf6ed1da.png",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_6b4e05829ac93162e8aa6e1faf6ed1da.png",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_6b4e05829ac93162e8aa6e1faf6ed1da_2a6b7c4b8ed8333e93b52fb9887b25e9_1.mp3",
+    "href" : "https://archive.org/download/buoc-theo/buoc-theo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "[ SÁCH NÓI ] BƯỚC THEO ĐẤNG CỨU THẾ l Thomas A Kempis (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_6b4e05829ac93162e8aa6e1faf6ed1da_2a6b7c4b8ed8333e93b52fb9887b25e9_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "[ SÁCH NÓI ] BƯỚC THEO ĐẤNG CỨU THẾ l Thomas A Kempis (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_6b4e05829ac93162e8aa6e1faf6ed1da_2a6b7c4b8ed8333e93b52fb9887b25e9_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "[ SÁCH NÓI ] BƯỚC THEO ĐẤNG CỨU THẾ l Thomas A Kempis (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_6b4e05829ac93162e8aa6e1faf6ed1da_2a6b7c4b8ed8333e93b52fb9887b25e9_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "[ SÁCH NÓI ] BƯỚC THEO ĐẤNG CỨU THẾ l Thomas A Kempis (4)",
+    "duration" : 8024,
+    "title" : "[ SÁCH NÓI ] BƯỚC THEO ĐẤNG CỨU THẾ l Thomas A Kempis",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_6b4e05829ac93162e8aa6e1faf6ed1da_2a6b7c4b8ed8333e93b52fb9887b25e9_1.mp3",
-    "title" : "[ SÁCH NÓI ] BƯỚC THEO ĐẤNG CỨU THẾ l Thomas A Kempis (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_6b4e05829ac93162e8aa6e1faf6ed1da_2a6b7c4b8ed8333e93b52fb9887b25e9_2.mp3",
-    "title" : "[ SÁCH NÓI ] BƯỚC THEO ĐẤNG CỨU THẾ l Thomas A Kempis (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_6b4e05829ac93162e8aa6e1faf6ed1da_2a6b7c4b8ed8333e93b52fb9887b25e9_3.mp3",
-    "title" : "[ SÁCH NÓI ] BƯỚC THEO ĐẤNG CỨU THẾ l Thomas A Kempis (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_6b4e05829ac93162e8aa6e1faf6ed1da_2a6b7c4b8ed8333e93b52fb9887b25e9_4.mp3",
-    "title" : "[ SÁCH NÓI ] BƯỚC THEO ĐẤNG CỨU THẾ l Thomas A Kempis (4)",
+    "href" : "https://archive.org/download/buoc-theo/buoc-theo.mp3",
+    "title" : "[ SÁCH NÓI ] BƯỚC THEO ĐẤNG CỨU THẾ l Thomas A Kempis",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

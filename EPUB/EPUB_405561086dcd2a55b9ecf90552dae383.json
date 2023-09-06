@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 8236,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,39 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_405561086dcd2a55b9ecf90552dae383.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_405561086dcd2a55b9ecf90552dae383.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_405561086dcd2a55b9ecf90552dae383.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_405561086dcd2a55b9ecf90552dae383.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_405561086dcd2a55b9ecf90552dae383_9c6f03497e569c10136f2fac4568fe56_1.mp3",
+    "href" : "https://archive.org/download/y-2mate.com-tinh-nguoi-ht-thich-nhat-hanh/y2mate.com%20-%20T%C3%ACnh%20Ng%C6%B0%E1%BB%9Di%20%20HT%20Th%C3%ADch%20Nh%E1%BA%A5t%20H%E1%BA%A1nh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "y2mate.com - Tình Người  HT Thích Nhất Hạnh (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_405561086dcd2a55b9ecf90552dae383_9c6f03497e569c10136f2fac4568fe56_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "y2mate.com - Tình Người  HT Thích Nhất Hạnh (2)",
+    "duration" : 8236,
+    "title" : "y2mate.com - Tình Người  HT Thích Nhất Hạnh",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_405561086dcd2a55b9ecf90552dae383_9c6f03497e569c10136f2fac4568fe56_1.mp3",
-    "title" : "y2mate.com - Tình Người  HT Thích Nhất Hạnh (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_405561086dcd2a55b9ecf90552dae383_9c6f03497e569c10136f2fac4568fe56_2.mp3",
-    "title" : "y2mate.com - Tình Người  HT Thích Nhất Hạnh (2)",
+    "href" : "https://archive.org/download/y-2mate.com-tinh-nguoi-ht-thich-nhat-hanh/y2mate.com%20-%20T%C3%ACnh%20Ng%C6%B0%E1%BB%9Di%20%20HT%20Th%C3%ADch%20Nh%E1%BA%A5t%20H%E1%BA%A1nh.mp3",
+    "title" : "y2mate.com - Tình Người  HT Thích Nhất Hạnh",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 10589,
+    "published" : "2023-09-06",
+    "duration" : 17738,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_56c5516b63f5d881a32d86c2a329af53.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_56c5516b63f5d881a32d86c2a329af53.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_56c5516b63f5d881a32d86c2a329af53.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_56c5516b63f5d881a32d86c2a329af53.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_756336947b53ec52b7a7aa9ba3f61da7.mp3",
+    "href" : "https://archive.org/download/co-may-ngay-xua.sna/CO_MAY_NGAY_XUA_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1883,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_c805af3a13ce0eaee33c6870d3f03060.mp3",
+    "href" : "https://archive.org/download/co-may-ngay-xua.sna/CO_MAY_NGAY_XUA_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2812,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_73b5808e5864c628e5c3b5c1d9279da3.mp3",
+    "href" : "https://archive.org/download/co-may-ngay-xua.sna/CO_MAY_NGAY_XUA_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2454,
@@ -60,41 +60,29 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_1.mp3",
+    "href" : "https://archive.org/download/co-may-ngay-xua.sna/CO_MAY_NGAY_XUA_04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "CO MAY NGAY XUA 04 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "CO MAY NGAY XUA 04 (2)",
+    "duration" : 3440,
+    "title" : "CO MAY NGAY XUA 04",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_756336947b53ec52b7a7aa9ba3f61da7.mp3",
+    "href" : "https://archive.org/download/co-may-ngay-xua.sna/CO_MAY_NGAY_XUA_01.mp3",
     "title" : "CO MAY NGAY XUA 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_c805af3a13ce0eaee33c6870d3f03060.mp3",
+    "href" : "https://archive.org/download/co-may-ngay-xua.sna/CO_MAY_NGAY_XUA_02.mp3",
     "title" : "CO MAY NGAY XUA 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_73b5808e5864c628e5c3b5c1d9279da3.mp3",
+    "href" : "https://archive.org/download/co-may-ngay-xua.sna/CO_MAY_NGAY_XUA_03.mp3",
     "title" : "CO MAY NGAY XUA 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_1.mp3",
-    "title" : "CO MAY NGAY XUA 04 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_56c5516b63f5d881a32d86c2a329af53_bf28ad1a9bc94e1082b11ba45df2595a_2.mp3",
-    "title" : "CO MAY NGAY XUA 04 (2)",
+    "href" : "https://archive.org/download/co-may-ngay-xua.sna/CO_MAY_NGAY_XUA_04.mp3",
+    "title" : "CO MAY NGAY XUA 04",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
