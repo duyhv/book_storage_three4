@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-25",
+    "published" : "2023-09-06",
     "duration" : 20787,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,171 +26,63 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_0f5221466b6661cffbe80d63d8fe91f6.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_0f5221466b6661cffbe80d63d8fe91f6.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_0f5221466b6661cffbe80d63d8fe91f6.png",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_0f5221466b6661cffbe80d63d8fe91f6.png",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_6b0c7ebc86aa7dba98c9d2fbd673650d_1.mp3",
+    "href" : "https://archive.org/download/can-ba-2/can-ba-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-1 (1)",
+    "duration" : 4232,
+    "title" : "can-ba-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_6b0c7ebc86aa7dba98c9d2fbd673650d_2.mp3",
+    "href" : "https://archive.org/download/can-ba-2/can-ba-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-1 (2)",
+    "duration" : 5667,
+    "title" : "can-ba-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_6b0c7ebc86aa7dba98c9d2fbd673650d_3.mp3",
+    "href" : "https://archive.org/download/can-ba-2/can-ba-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-1 (3)",
+    "duration" : 5667,
+    "title" : "can-ba-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_a92fb11da8a40c5b61e7551e7e3ef654_1.mp3",
+    "href" : "https://archive.org/download/can-ba-2/can-ba-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_a92fb11da8a40c5b61e7551e7e3ef654_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_a92fb11da8a40c5b61e7551e7e3ef654_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_97cea5ba47ddde2a4b5b129cd1ecf85a_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_97cea5ba47ddde2a4b5b129cd1ecf85a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_97cea5ba47ddde2a4b5b129cd1ecf85a_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-3 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_97cea5ba47ddde2a4b5b129cd1ecf85a_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-3 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_77d7fdff767cfbfac2d9d9360c1cb13c_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_77d7fdff767cfbfac2d9d9360c1cb13c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_77d7fdff767cfbfac2d9d9360c1cb13c_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "can-ba-4 (3)",
+    "duration" : 5221,
+    "title" : "can-ba-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_6b0c7ebc86aa7dba98c9d2fbd673650d_1.mp3",
-    "title" : "can-ba-1 (1)",
+    "href" : "https://archive.org/download/can-ba-2/can-ba-1.mp3",
+    "title" : "can-ba-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_6b0c7ebc86aa7dba98c9d2fbd673650d_2.mp3",
-    "title" : "can-ba-1 (2)",
+    "href" : "https://archive.org/download/can-ba-2/can-ba-2.mp3",
+    "title" : "can-ba-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_6b0c7ebc86aa7dba98c9d2fbd673650d_3.mp3",
-    "title" : "can-ba-1 (3)",
+    "href" : "https://archive.org/download/can-ba-2/can-ba-3.mp3",
+    "title" : "can-ba-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_a92fb11da8a40c5b61e7551e7e3ef654_1.mp3",
-    "title" : "can-ba-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_a92fb11da8a40c5b61e7551e7e3ef654_2.mp3",
-    "title" : "can-ba-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_a92fb11da8a40c5b61e7551e7e3ef654_3.mp3",
-    "title" : "can-ba-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_97cea5ba47ddde2a4b5b129cd1ecf85a_1.mp3",
-    "title" : "can-ba-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_97cea5ba47ddde2a4b5b129cd1ecf85a_2.mp3",
-    "title" : "can-ba-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_97cea5ba47ddde2a4b5b129cd1ecf85a_3.mp3",
-    "title" : "can-ba-3 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_97cea5ba47ddde2a4b5b129cd1ecf85a_4.mp3",
-    "title" : "can-ba-3 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_77d7fdff767cfbfac2d9d9360c1cb13c_1.mp3",
-    "title" : "can-ba-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_77d7fdff767cfbfac2d9d9360c1cb13c_2.mp3",
-    "title" : "can-ba-4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0f5221466b6661cffbe80d63d8fe91f6_77d7fdff767cfbfac2d9d9360c1cb13c_3.mp3",
-    "title" : "can-ba-4 (3)",
+    "href" : "https://archive.org/download/can-ba-2/can-ba-4.mp3",
+    "title" : "can-ba-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

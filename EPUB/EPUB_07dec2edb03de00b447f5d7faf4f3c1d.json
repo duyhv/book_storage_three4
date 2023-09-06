@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 50762,
+    "published" : "2023-09-06",
+    "duration" : 101524,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_07dec2edb03de00b447f5d7faf4f3c1d.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_07dec2edb03de00b447f5d7faf4f3c1d.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_07dec2edb03de00b447f5d7faf4f3c1d.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_07dec2edb03de00b447f5d7faf4f3c1d.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_f420ebd5f1aa03592c4ecb7e1e71bc01.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/01-Doi%20Dong%20Ghi%20Nho_01-PhamBaHoa-PBHdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2725,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_6b844fe65f9dbfc9ac287aeaf45bc2a1.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/02-Doi%20Dong%20Ghi%20Nho_02-PhamBaHoa-PBHdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2494,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_50a30469d6f26afc330500cd1dff0604.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/03-Doi%20Dong%20Ghi%20Nho_03-PhamBaHoa-PBHdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2304,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_da0199f30ca10e3958075196ac7575dc.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/04-Doi%20Dong%20Ghi%20Nho_04-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2691,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_cf6dd3f1e45685bdccb8a6f82ab5eb2b.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/05-Doi%20Dong%20Ghi%20Nho_05-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2757,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_b07b6111bfdf6a5899348c8547f192b3.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/06-Doi%20Dong%20Ghi%20Nho_06-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2378,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_3a59eab7109634d69f6fffdd390239cc.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/07-Doi%20Dong%20Ghi%20Nho_07-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2815,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_c10ed6a49f1f06dcc755ec28b22f66b1.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/08-Doi%20Dong%20Ghi%20Nho_08-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2531,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_005c4182899a39fd6681231ef166d0fc.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/09-Doi%20Dong%20Ghi%20Nho_09-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3288,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_f09c5b407fa5155644a7e284b61e868a.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/10-Doi%20Dong%20Ghi%20Nho_10-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1425,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_72e109fab95124270b3c107c83cabb88.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/11-Doi%20Dong%20Ghi%20Nho_11-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2024,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_b184c48cd6435682ca68e49d8d6263cd.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/12-Doi%20Dong%20Ghi%20Nho_12-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2043,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_9026dad452b58714f099036657f6bc59.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/13-Doi%20Dong%20Ghi%20Nho_13-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3687,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_963f606b4b55f2498d950170ad28afc8.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/14-Doi%20Dong%20Ghi%20Nho_14-PhamBaHoa-PBH.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3865,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_13167e0f4401422271cc06a58c964d42.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/15-Doi%20Dong%20Ghi%20Nho_15-PhamBaHoa-PBHdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3368,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_435fe3a0efff673c51540301bc4842b2.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/16-Doi%20Dong%20Ghi%20Nho_16-PhamBaHoa-PBHdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3660,
@@ -164,7 +164,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_0e4ab669295e39854da0a025aa6c3af8.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/17-Doi%20Dong%20Ghi%20Nho_17-PhamBaHoa-PBHdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2939,
@@ -172,7 +172,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_e1b962b62c3c46c396885582dcb9b41d.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/18end-Doi%20Dong%20Ghi%20Nho_18end-PhamBaHoa-PBHdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3768,
@@ -181,75 +181,75 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_f420ebd5f1aa03592c4ecb7e1e71bc01.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/01-Doi%20Dong%20Ghi%20Nho_01-PhamBaHoa-PBHdoc.mp3",
     "title" : "01-Doi Dong Ghi Nho 01-PhamBaHoa-PBHdoc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_6b844fe65f9dbfc9ac287aeaf45bc2a1.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/02-Doi%20Dong%20Ghi%20Nho_02-PhamBaHoa-PBHdoc.mp3",
     "title" : "02-Doi Dong Ghi Nho 02-PhamBaHoa-PBHdoc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_50a30469d6f26afc330500cd1dff0604.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/03-Doi%20Dong%20Ghi%20Nho_03-PhamBaHoa-PBHdoc.mp3",
     "title" : "03-Doi Dong Ghi Nho 03-PhamBaHoa-PBHdoc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_da0199f30ca10e3958075196ac7575dc.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/04-Doi%20Dong%20Ghi%20Nho_04-PhamBaHoa-PBH.mp3",
     "title" : "04-Doi Dong Ghi Nho 04-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_cf6dd3f1e45685bdccb8a6f82ab5eb2b.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/05-Doi%20Dong%20Ghi%20Nho_05-PhamBaHoa-PBH.mp3",
     "title" : "05-Doi Dong Ghi Nho 05-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_b07b6111bfdf6a5899348c8547f192b3.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/06-Doi%20Dong%20Ghi%20Nho_06-PhamBaHoa-PBH.mp3",
     "title" : "06-Doi Dong Ghi Nho 06-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_3a59eab7109634d69f6fffdd390239cc.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/07-Doi%20Dong%20Ghi%20Nho_07-PhamBaHoa-PBH.mp3",
     "title" : "07-Doi Dong Ghi Nho 07-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_c10ed6a49f1f06dcc755ec28b22f66b1.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/08-Doi%20Dong%20Ghi%20Nho_08-PhamBaHoa-PBH.mp3",
     "title" : "08-Doi Dong Ghi Nho 08-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_005c4182899a39fd6681231ef166d0fc.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/09-Doi%20Dong%20Ghi%20Nho_09-PhamBaHoa-PBH.mp3",
     "title" : "09-Doi Dong Ghi Nho 09-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_f09c5b407fa5155644a7e284b61e868a.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/10-Doi%20Dong%20Ghi%20Nho_10-PhamBaHoa-PBH.mp3",
     "title" : "10-Doi Dong Ghi Nho 10-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_72e109fab95124270b3c107c83cabb88.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/11-Doi%20Dong%20Ghi%20Nho_11-PhamBaHoa-PBH.mp3",
     "title" : "11-Doi Dong Ghi Nho 11-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_b184c48cd6435682ca68e49d8d6263cd.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/12-Doi%20Dong%20Ghi%20Nho_12-PhamBaHoa-PBH.mp3",
     "title" : "12-Doi Dong Ghi Nho 12-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_9026dad452b58714f099036657f6bc59.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/13-Doi%20Dong%20Ghi%20Nho_13-PhamBaHoa-PBH.mp3",
     "title" : "13-Doi Dong Ghi Nho 13-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_963f606b4b55f2498d950170ad28afc8.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/14-Doi%20Dong%20Ghi%20Nho_14-PhamBaHoa-PBH.mp3",
     "title" : "14-Doi Dong Ghi Nho 14-PhamBaHoa-PBH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_13167e0f4401422271cc06a58c964d42.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/15-Doi%20Dong%20Ghi%20Nho_15-PhamBaHoa-PBHdoc.mp3",
     "title" : "15-Doi Dong Ghi Nho 15-PhamBaHoa-PBHdoc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_435fe3a0efff673c51540301bc4842b2.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/16-Doi%20Dong%20Ghi%20Nho_16-PhamBaHoa-PBHdoc.mp3",
     "title" : "16-Doi Dong Ghi Nho 16-PhamBaHoa-PBHdoc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_0e4ab669295e39854da0a025aa6c3af8.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/17-Doi%20Dong%20Ghi%20Nho_17-PhamBaHoa-PBHdoc.mp3",
     "title" : "17-Doi Dong Ghi Nho 17-PhamBaHoa-PBHdoc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_07dec2edb03de00b447f5d7faf4f3c1d_e1b962b62c3c46c396885582dcb9b41d.mp3",
+    "href" : "https://archive.org/download/01DoiDongGhiNho01PhamBaHoaPBHdoc/18end-Doi%20Dong%20Ghi%20Nho_18end-PhamBaHoa-PBHdoc.mp3",
     "title" : "18end-Doi Dong Ghi Nho 18end-PhamBaHoa-PBHdoc",
     "children" : [ ]
   } ],

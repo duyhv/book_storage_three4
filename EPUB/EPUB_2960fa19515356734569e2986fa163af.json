@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-20",
+    "published" : "2023-09-06",
     "duration" : 11719,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,75 +26,39 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_2960fa19515356734569e2986fa163af.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_2960fa19515356734569e2986fa163af.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_2960fa19515356734569e2986fa163af.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_2960fa19515356734569e2986fa163af.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2960fa19515356734569e2986fa163af_7786773951c3b690ad8197258021cbd6_1.mp3",
+    "href" : "https://archive.org/download/thay-1/thay-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thay-1 (1)",
+    "duration" : 5876,
+    "title" : "thay-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2960fa19515356734569e2986fa163af_7786773951c3b690ad8197258021cbd6_2.mp3",
+    "href" : "https://archive.org/download/thay-1/thay-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thay-1 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2960fa19515356734569e2986fa163af_c5f37eacd22c84fe4c015d855206727e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thay-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2960fa19515356734569e2986fa163af_c5f37eacd22c84fe4c015d855206727e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thay-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2960fa19515356734569e2986fa163af_c5f37eacd22c84fe4c015d855206727e_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thay-2 (3)",
+    "duration" : 5843,
+    "title" : "thay-2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2960fa19515356734569e2986fa163af_7786773951c3b690ad8197258021cbd6_1.mp3",
-    "title" : "thay-1 (1)",
+    "href" : "https://archive.org/download/thay-1/thay-1.mp3",
+    "title" : "thay-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2960fa19515356734569e2986fa163af_7786773951c3b690ad8197258021cbd6_2.mp3",
-    "title" : "thay-1 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2960fa19515356734569e2986fa163af_c5f37eacd22c84fe4c015d855206727e_1.mp3",
-    "title" : "thay-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2960fa19515356734569e2986fa163af_c5f37eacd22c84fe4c015d855206727e_2.mp3",
-    "title" : "thay-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_2960fa19515356734569e2986fa163af_c5f37eacd22c84fe4c015d855206727e_3.mp3",
-    "title" : "thay-2 (3)",
+    "href" : "https://archive.org/download/thay-1/thay-2.mp3",
+    "title" : "thay-2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

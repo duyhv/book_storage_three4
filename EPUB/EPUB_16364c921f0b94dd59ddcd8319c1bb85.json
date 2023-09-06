@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 5465,
+    "published" : "2023-09-06",
+    "duration" : 10930,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/EPUB/EPUB_16364c921f0b94dd59ddcd8319c1bb85.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/EPUB/EPUB_16364c921f0b94dd59ddcd8319c1bb85.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three4/main/IMAGE/IMAGE_16364c921f0b94dd59ddcd8319c1bb85.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three4/main/IMAGE/IMAGE_16364c921f0b94dd59ddcd8319c1bb85.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_16364c921f0b94dd59ddcd8319c1bb85_6c28999bda651bab643176ff0e159467.mp3",
+    "href" : "https://archive.org/download/mua-ca-2/mua-ca-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1743,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_16364c921f0b94dd59ddcd8319c1bb85_9d5946241b6afec6d62df0af57801fe3.mp3",
+    "href" : "https://archive.org/download/mua-ca-2/mua-ca-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1986,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_16364c921f0b94dd59ddcd8319c1bb85_5b5d467b99fc7bc4b64590c66fa92b0b.mp3",
+    "href" : "https://archive.org/download/mua-ca-2/mua-ca-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1736,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_16364c921f0b94dd59ddcd8319c1bb85_6c28999bda651bab643176ff0e159467.mp3",
+    "href" : "https://archive.org/download/mua-ca-2/mua-ca-1.mp3",
     "title" : "mua-ca-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_16364c921f0b94dd59ddcd8319c1bb85_9d5946241b6afec6d62df0af57801fe3.mp3",
+    "href" : "https://archive.org/download/mua-ca-2/mua-ca-2.mp3",
     "title" : "mua-ca-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_16364c921f0b94dd59ddcd8319c1bb85_5b5d467b99fc7bc4b64590c66fa92b0b.mp3",
+    "href" : "https://archive.org/download/mua-ca-2/mua-ca-3.mp3",
     "title" : "mua-ca-3",
     "children" : [ ]
   } ],
