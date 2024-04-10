@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 21950,
+    "published" : "2024-04-09",
+    "duration" : 10975,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mien-tay-kinh-di-ky/1.mp3",
+    "href" : "https://archive.org/download/e8e1595467b485cc80ea87ed0332d3ee/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3682,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mien-tay-kinh-di-ky/2.mp3",
+    "href" : "https://archive.org/download/e8e1595467b485cc80ea87ed0332d3ee/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3776,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mien-tay-kinh-di-ky/3.mp3",
+    "href" : "https://archive.org/download/e8e1595467b485cc80ea87ed0332d3ee/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3517,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mien-tay-kinh-di-ky/1.mp3",
+    "href" : "https://archive.org/download/e8e1595467b485cc80ea87ed0332d3ee/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mien-tay-kinh-di-ky/2.mp3",
+    "href" : "https://archive.org/download/e8e1595467b485cc80ea87ed0332d3ee/2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mien-tay-kinh-di-ky/3.mp3",
+    "href" : "https://archive.org/download/e8e1595467b485cc80ea87ed0332d3ee/3.mp3",
     "title" : "3",
     "children" : [ ]
   } ],
