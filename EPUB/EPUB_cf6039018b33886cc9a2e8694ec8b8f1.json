@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 9274,
+    "published" : "2024-04-28",
+    "duration" : 4637,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/01_loigioithieu.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/loi-gioi-thieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 227,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/02_gioithieuvetuduytichcuc.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/gioi-thieu-ve-tu-duy-tich-cuc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 945,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/03_thugian-thechat.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-the-chat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 537,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/04_amnhacthugian1.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/am-nhac-thu-gian-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 537,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/05_thugiankiemtratutuong.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-kiem-tra-tu-tuong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 376,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/06_amnhacthugian2.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/am-nhac-thu-gian-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 228,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/07_thugianchoquadi.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-cho-qua-di.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 413,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/08_thugiangiamstress.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-giam-stress.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 552,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/09_thugianhoabinh.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-hoa-binh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 452,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/10_thugiansucmanhnoitam.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-suc-manh-noi-tam.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 370,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/01_loigioithieu.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/loi-gioi-thieu.mp3",
     "title" : "Lời giới thiệu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/02_gioithieuvetuduytichcuc.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/gioi-thieu-ve-tu-duy-tich-cuc.mp3",
     "title" : "Giới thiệu về tư duy tich cực",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/03_thugian-thechat.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-the-chat.mp3",
     "title" : "Thư giãn - Thể chất",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/04_amnhacthugian1.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/am-nhac-thu-gian-1.mp3",
     "title" : "Âm nhạc - Thư giãn 1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/05_thugiankiemtratutuong.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-kiem-tra-tu-tuong.mp3",
     "title" : "Thư giãn - Kiểm tra tư tưởng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/06_amnhacthugian2.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/am-nhac-thu-gian-2.mp3",
     "title" : "Âm nhạc - Thư giãn 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/07_thugianchoquadi.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-cho-qua-di.mp3",
     "title" : "Thư giãn - Cho qua đi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/08_thugiangiamstress.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-giam-stress.mp3",
     "title" : "Thư giãn - Giảm stress",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/09_thugianhoabinh.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-hoa-binh.mp3",
     "title" : "Thư giãn - Hòa bình",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnBanChinhLaNhungGiBanNghi/10_thugiansucmanhnoitam.mp3",
+    "href" : "https://archive.org/download/cf6039018b33886cc9a2e8694ec8b8f1/thu-gian-suc-manh-noi-tam.mp3",
     "title" : "Thư giãn - Sức mạnh nội tâm",
     "children" : [ ]
   } ],
