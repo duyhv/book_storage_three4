@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-29",
     "duration" : 8156,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tuoi-tre-1/tuoi-tre-1.mp3",
+    "href" : "https://archive.org/download/c60f8b31fd06a3c41f72e2dc0d20b562/01-tuoi-tre-tinh-yeu-ly-tuong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4080,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tuoi-tre-1/tuoi-tre-2.mp3",
+    "href" : "https://archive.org/download/c60f8b31fd06a3c41f72e2dc0d20b562/02-tuoi-tre-tinh-yeu-ly-tuong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4076,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tuoi-tre-1/tuoi-tre-1.mp3",
+    "href" : "https://archive.org/download/c60f8b31fd06a3c41f72e2dc0d20b562/01-tuoi-tre-tinh-yeu-ly-tuong.mp3",
     "title" : "01 Tuoi Tre Tinh Yeu Ly Tuong",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tuoi-tre-1/tuoi-tre-2.mp3",
+    "href" : "https://archive.org/download/c60f8b31fd06a3c41f72e2dc0d20b562/02-tuoi-tre-tinh-yeu-ly-tuong.mp3",
     "title" : "02 Tuoi Tre Tinh Yeu Ly Tuong",
     "children" : [ ]
   } ],
