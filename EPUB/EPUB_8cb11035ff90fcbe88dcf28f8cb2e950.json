@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 33740,
+    "published" : "2024-05-02",
+    "duration" : 16870,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/con-quy-tien-kiep/1.mp3",
+    "href" : "https://archive.org/download/8cb11035ff90fcbe88dcf28f8cb2e950/-so-voi-con-quy-tien-kiep--truyen-ma-co-that-den-ron-ngoc-lam-ke.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3976,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/con-quy-tien-kiep/2.mp3",
+    "href" : "https://archive.org/download/8cb11035ff90fcbe88dcf28f8cb2e950/-tap-2-con-quy-tien-kiep--truyen-ma-co-that-den-so-ngoc-lam-dien-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4483,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/con-quy-tien-kiep/3.mp3",
+    "href" : "https://archive.org/download/8cb11035ff90fcbe88dcf28f8cb2e950/-tap-3-con-quy-tien-kiep--truyen-ma-co-that-den-so-ngoc-lam-ke.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3936,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/con-quy-tien-kiep/4.mp3",
+    "href" : "https://archive.org/download/8cb11035ff90fcbe88dcf28f8cb2e950/-tap-4-ket-con-quy-tien-kiep--truyen-ma-co-that-den-so-ngoc-lam-ke.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4475,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/con-quy-tien-kiep/1.mp3",
+    "href" : "https://archive.org/download/8cb11035ff90fcbe88dcf28f8cb2e950/-so-voi-con-quy-tien-kiep--truyen-ma-co-that-den-ron-ngoc-lam-ke.mp3",
     "title" : "[Sợ Với] Con Quỷ Tiền Kiếp 😱 Truyện Ma Có Thật Đến Rợn Ngọc Lâm Kể",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/con-quy-tien-kiep/2.mp3",
+    "href" : "https://archive.org/download/8cb11035ff90fcbe88dcf28f8cb2e950/-tap-2-con-quy-tien-kiep--truyen-ma-co-that-den-so-ngoc-lam-dien-doc.mp3",
     "title" : "[Tập 2] Con Quỷ Tiền Kiếp 😱 Truyện Ma Có Thật Đến Sợ Ngọc Lâm Diễn Đọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/con-quy-tien-kiep/3.mp3",
+    "href" : "https://archive.org/download/8cb11035ff90fcbe88dcf28f8cb2e950/-tap-3-con-quy-tien-kiep--truyen-ma-co-that-den-so-ngoc-lam-ke.mp3",
     "title" : "[Tập 3] Con Quỷ Tiền Kiếp 😱 Truyện Ma Có Thật Đến Sợ Ngọc Lâm Kể",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/con-quy-tien-kiep/4.mp3",
+    "href" : "https://archive.org/download/8cb11035ff90fcbe88dcf28f8cb2e950/-tap-4-ket-con-quy-tien-kiep--truyen-ma-co-that-den-so-ngoc-lam-ke.mp3",
     "title" : "[Tập 4 Kết] Con Quỷ Tiền Kiếp 😱 Truyện Ma Có Thật Đến Sợ Ngọc Lâm Kể",
     "children" : [ ]
   } ],

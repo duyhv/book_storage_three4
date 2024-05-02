@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 24237,
+    "published" : "2024-05-02",
+    "duration" : 16852,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_01.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2940,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_02.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3320,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_03.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2914,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_04.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3207,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_05.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2530,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_06.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1941,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_01.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-01.mp3",
     "title" : "VUA HAM NGHI 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_02.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-02.mp3",
     "title" : "VUA HAM NGHI 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_03.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-03.mp3",
     "title" : "VUA HAM NGHI 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_04.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-04.mp3",
     "title" : "VUA HAM NGHI 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_05.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-05.mp3",
     "title" : "VUA HAM NGHI 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vua-ham-nghi-mot-tam-hon-viet-o-chon-luu-day.sna/VUA_HAM_NGHI_06.mp3",
+    "href" : "https://archive.org/download/94e674ef56abfb309f58f05f86dc897f/vua-ham-nghi-06.mp3",
     "title" : "VUA HAM NGHI 06",
     "children" : [ ]
   } ],
