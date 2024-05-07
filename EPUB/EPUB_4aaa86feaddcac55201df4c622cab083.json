@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 7803,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/theo-buoc-chan-thay/theo-buoc-chan-thay.mp3",
+    "href" : "https://archive.org/download/4aaa86feaddcac55201df4c622cab083/1-theo-buoc-chan-thay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7803,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/theo-buoc-chan-thay/theo-buoc-chan-thay.mp3",
+    "href" : "https://archive.org/download/4aaa86feaddcac55201df4c622cab083/1-theo-buoc-chan-thay.mp3",
     "title" : "theo-buoc-chan-thay",
     "children" : [ ]
   } ],
