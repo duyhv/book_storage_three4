@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 16189,
+    "published" : "2024-05-07",
+    "duration" : 11198,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/qua-cua-bo.sna/QUA_CUA_BO_01.mp3",
+    "href" : "https://archive.org/download/4137e0168fe03ec13082fcf803972e30/1-qua-cua-bo-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2496,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/qua-cua-bo.sna/QUA_CUA_BO_02.mp3",
+    "href" : "https://archive.org/download/4137e0168fe03ec13082fcf803972e30/2-qua-cua-bo-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2495,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/qua-cua-bo.sna/QUA_CUA_BO_03.mp3",
+    "href" : "https://archive.org/download/4137e0168fe03ec13082fcf803972e30/3-qua-cua-bo-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3211,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/qua-cua-bo.sna/QUA_CUA_BO_04.mp3",
+    "href" : "https://archive.org/download/4137e0168fe03ec13082fcf803972e30/4-qua-cua-bo-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2996,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/qua-cua-bo.sna/QUA_CUA_BO_01.mp3",
+    "href" : "https://archive.org/download/4137e0168fe03ec13082fcf803972e30/1-qua-cua-bo-01.mp3",
     "title" : "QUA CUA BO 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/qua-cua-bo.sna/QUA_CUA_BO_02.mp3",
+    "href" : "https://archive.org/download/4137e0168fe03ec13082fcf803972e30/2-qua-cua-bo-02.mp3",
     "title" : "QUA CUA BO 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/qua-cua-bo.sna/QUA_CUA_BO_03.mp3",
+    "href" : "https://archive.org/download/4137e0168fe03ec13082fcf803972e30/3-qua-cua-bo-03.mp3",
     "title" : "QUA CUA BO 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/qua-cua-bo.sna/QUA_CUA_BO_04.mp3",
+    "href" : "https://archive.org/download/4137e0168fe03ec13082fcf803972e30/4-qua-cua-bo-04.mp3",
     "title" : "QUA CUA BO 04",
     "children" : [ ]
   } ],
