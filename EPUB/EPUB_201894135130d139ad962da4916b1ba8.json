@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-08",
     "duration" : 5326,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/truyen-ke/truyen-ke.mp3",
+    "href" : "https://archive.org/download/201894135130d139ad962da4916b1ba8/1-truyen-ke.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5326,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/truyen-ke/truyen-ke.mp3",
+    "href" : "https://archive.org/download/201894135130d139ad962da4916b1ba8/1-truyen-ke.mp3",
     "title" : "truyen-ke",
     "children" : [ ]
   } ],

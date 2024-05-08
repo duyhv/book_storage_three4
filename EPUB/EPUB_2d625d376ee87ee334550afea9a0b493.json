@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-08",
     "duration" : 3883,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/co-gai/co-gai.mp3",
+    "href" : "https://archive.org/download/2d625d376ee87ee334550afea9a0b493/1-co-gai.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3883,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/co-gai/co-gai.mp3",
+    "href" : "https://archive.org/download/2d625d376ee87ee334550afea9a0b493/1-co-gai.mp3",
     "title" : "co-gai",
     "children" : [ ]
   } ],

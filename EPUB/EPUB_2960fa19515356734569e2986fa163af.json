@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-08",
     "duration" : 11719,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/thay-1/thay-1.mp3",
+    "href" : "https://archive.org/download/2960fa19515356734569e2986fa163af/1-thay-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5876,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thay-1/thay-2.mp3",
+    "href" : "https://archive.org/download/2960fa19515356734569e2986fa163af/2-thay-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5843,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/thay-1/thay-1.mp3",
+    "href" : "https://archive.org/download/2960fa19515356734569e2986fa163af/1-thay-1.mp3",
     "title" : "thay-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thay-1/thay-2.mp3",
+    "href" : "https://archive.org/download/2960fa19515356734569e2986fa163af/2-thay-2.mp3",
     "title" : "thay-2",
     "children" : [ ]
   } ],
