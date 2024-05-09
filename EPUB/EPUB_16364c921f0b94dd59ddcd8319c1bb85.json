@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 10930,
+    "published" : "2024-05-08",
+    "duration" : 5465,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mua-ca-2/mua-ca-1.mp3",
+    "href" : "https://archive.org/download/16364c921f0b94dd59ddcd8319c1bb85/1-mua-ca-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1743,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mua-ca-2/mua-ca-2.mp3",
+    "href" : "https://archive.org/download/16364c921f0b94dd59ddcd8319c1bb85/2-mua-ca-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1986,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mua-ca-2/mua-ca-3.mp3",
+    "href" : "https://archive.org/download/16364c921f0b94dd59ddcd8319c1bb85/3-mua-ca-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1736,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mua-ca-2/mua-ca-1.mp3",
+    "href" : "https://archive.org/download/16364c921f0b94dd59ddcd8319c1bb85/1-mua-ca-1.mp3",
     "title" : "mua-ca-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mua-ca-2/mua-ca-2.mp3",
+    "href" : "https://archive.org/download/16364c921f0b94dd59ddcd8319c1bb85/2-mua-ca-2.mp3",
     "title" : "mua-ca-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mua-ca-2/mua-ca-3.mp3",
+    "href" : "https://archive.org/download/16364c921f0b94dd59ddcd8319c1bb85/3-mua-ca-3.mp3",
     "title" : "mua-ca-3",
     "children" : [ ]
   } ],
