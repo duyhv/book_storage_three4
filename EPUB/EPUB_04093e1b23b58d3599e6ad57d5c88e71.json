@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 28884,
+    "published" : "2024-05-14",
+    "duration" : 15587,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-01.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/1-chuong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1145,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-02.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/2-chuong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 814,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-03.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/3-mary-poppins-chuong-3-khi-cuoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1474,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-04.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/4-chuong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1075,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-05.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/5-chuong-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1280,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-06.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/6-mary-poppins.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1770,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-07.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/7-mary-poppins-chuong-7-nguoi-chim.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 552,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-08.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/8-mary-poppins.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1740,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-09.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/9-mary-poppins-chuong-9-chuyen-cua-be-john-va-barbara.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1171,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-10.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/10-chuong-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2290,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-11.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/11-chuong-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1306,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-12.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/12-chuong-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 970,
@@ -133,51 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-01.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/1-chuong-1.mp3",
     "title" : "chương 1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-02.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/2-chuong-2.mp3",
     "title" : "chương 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-03.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/3-mary-poppins-chuong-3-khi-cuoi.mp3",
     "title" : "Mary Poppins - Chương 3 - Khí cười",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-04.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/4-chuong-4.mp3",
     "title" : "Chương 4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-05.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/5-chuong-5.mp3",
     "title" : "Chương 5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-06.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/6-mary-poppins.mp3",
     "title" : "Mary Poppins",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-07.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/7-mary-poppins-chuong-7-nguoi-chim.mp3",
     "title" : "Mary Poppins - Chương 7 - Người chim",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-08.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/8-mary-poppins.mp3",
     "title" : "Mary Poppins",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-09.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/9-mary-poppins-chuong-9-chuyen-cua-be-john-va-barbara.mp3",
     "title" : "Mary Poppins - Chương 9 - Chuyện của bé John và Barbara",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-10.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/10-chuong-10.mp3",
     "title" : "Chương 10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-11.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/11-chuong-11.mp3",
     "title" : "Chương 11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mary-poppins-10/mary-poppins-12.mp3",
+    "href" : "https://archive.org/download/04093e1b23b58d3599e6ad57d5c88e71/12-chuong-12.mp3",
     "title" : "Chương 12",
     "children" : [ ]
   } ],
